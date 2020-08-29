@@ -1,0 +1,28 @@
+{
+  "name": "securas-exploration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenbetts/securas-exploration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haydenbetts/securas-exploration/issues"
+  },
+  "homepage": "https://github.com/haydenbetts/securas-exploration#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "faker": "^4.1.0",
+    "google-libphonenumber": "^3.2.12",
+    "jsdom": "^16.4.0",
+    "moment": "^2.27.0",
+    "us-state-codes": "^1.1.2",
+    "usa-states": "0.0.5"
+  }
+}

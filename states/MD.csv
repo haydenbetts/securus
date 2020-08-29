@@ -1,0 +1,4 @@
+state,date,facility,service,in_state,number,surCharge,initialAmount,additionalAmount,totalAmount,quoteRule,feeName,ratePerMinute
+MD,1598743152993,CECIL COUNTY DETENTION CENTER,AdvancedConnect,true,4109743901,$0.000,$0.160,$0.160,$0.160,false,null,$0.000
+MD,1598743152993,CECIL COUNTY DETENTION CENTER,AdvancedConnect,false,5737513222,$0.000,$0.160,$0.160,$0.160,false,null,$0.000
+MD,1598743152993,CECIL COUNTY DETENTION CENTER,Direct Bill,true,4109743901,$0.000,$0.160,$0.160,$0.160,false,null,$0.000
