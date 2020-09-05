@@ -1,4 +1,5 @@
 const fs = require('fs');
+const moment = require('moment');
 
 const main = async () => {
     let files;
@@ -11,6 +12,8 @@ const main = async () => {
 
         if (i === 0) all += f[0] + '\n';
         for (let j = 1; j < f.length; j++) {
+
+        f[j] = f[j].split(',').map((f, i) => i === 1 ? moment(parseInt(f)).format('MM/DD/YYYY') : f ).join(',');
 
 
                     // fix issue of commas in the facility name field
@@ -35,4 +38,3 @@ const main = async () => {
 }
 
 main()
-
