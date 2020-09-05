@@ -1,0 +1,1639 @@
+state,siteId,siteName,customerId,displayId,displayName,address1,address2,city,zipCd,onSiteUserAccountNeeded
+AK,04660,AK DOC - ANCHORAGE CORRECTIONAL COMPLEX/EAST (ANCHORAGE JAIL),null,null,null,null,null,false
+AK,05138,AK DOC - ANCHORAGE CORRECTIONAL COMPLEX/WEST,null,null,null,null,null,false
+AK,05139,AK DOC - ANVIL MOUNTAIN CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,05137,AK DOC - FAIRBANKS CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,09075,AK DOC - GOOSE CREEK CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,05136,AK DOC - HILAND MOUNTAIN CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,05129,AK DOC - KETCHIKAN CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,05135,AK DOC - LEMON CREEK CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,05134,AK DOC - MAT-SU PRETRIAL FACILITY,null,null,null,null,null,false
+AK,04745,AK DOC - POINT MACKENZIE CORRECTIONAL FARM,null,null,null,null,null,false
+AK,05132,AK DOC - SPRING CREEK CORRECTIONAL CENTER,null,null,null,null,null,false
+AK,05130,AK DOC - WILDWOOD CORRECTIONAL COMPLEX,null,null,null,null,null,false
+AK,05131,AK DOC - YUKON KUSKOKWIM CORRECTIONAL CENTER,null,null,null,null,null,falseAL,57027,AL DOC - ALEXANDER CITY COMMUNITY WORK CENTER/RELEASE,null,null,null,null,null,false
+AL,57001,AL DOC - BIBB COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57020,AL DOC - BIRMINGHAM COMMUNITY WORK CENTER/RELEASE,null,null,null,null,null,false
+AL,57010,AL DOC - BULLOCK  CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57031,AL DOC - BULLOCK MENTAL HEALTH UNIT,null,null,null,null,null,false
+AL,57033,AL DOC - CAMDEN COMMUNITY WORK CENTER/RELEASE,null,null,null,null,null,false
+AL,57026,AL DOC - CHILDERSBURG COMMUNITY WORK RELEASE & REHABILITATION CENTER,null,null,null,null,null,false
+AL,57003,AL DOC - DRAPER CORRECTIONAL CENTER,null,null,null,null,null,false
+AL,57013,AL DOC - EASTERLING CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57032,AL DOC - ELBA COMMUNITY WORK RELEASE/CENTER,null,null,null,null,null,false
+AL,57004,AL DOC - ELMORE CORRECTIONAL CENTER,null,null,null,null,null,false
+AL,57014,AL DOC - FRANK LEE YOUTH CENTER,null,null,null,null,null,false
+AL,57009,AL DOC - G K FOUNTAIN/J O DAVIS CORRECTIONAL FACILTY,null,null,null,null,null,false
+AL,57018,AL DOC - HAMILTON AGED AND INFIRMED CENTER,null,null,null,null,null,false
+AL,57024,AL DOC - HAMILTON COMMUNITY WORK RELEASE/CENTER,null,null,null,null,null,false
+AL,57008,AL DOC - JULIA TUTWILER PRISON FOR WOMEN,null,null,null,null,null,false
+AL,09902,AL DOC - JULIA TUTWILER WOMEN'S PRISON / ANNEX,null,null,null,null,null,false
+AL,57016,AL DOC - KILBY CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57006,AL DOC - LIMESTONE CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57023,AL DOC - LOXLEY COMMUNITY WORK RELEASE,null,null,null,null,null,false
+AL,57028,AL DOC - MOBILE COMMUNITY WORK RELEASE/CENTER,null,null,null,null,null,false
+AL,57030,AL DOC - MONTGOMERY WOMENS COMMUNITY BASED FACILITY,null,null,null,null,null,false
+AL,57025,AL DOC - NORTH ALABAMA COMMUNITY WORK RELEASE CENTER,null,null,null,null,null,false
+AL,57017,AL DOC - RED EAGLE HONOR FARM,null,null,null,null,null,false
+AL,57005,AL DOC - ST CLAIR CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57007,AL DOC - STATON CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57012,AL DOC - VENTRESS CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57011,AL DOC - W C HOLMAN CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,57002,AL DOC - WILLIAM E DONALDSON CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,01303,CHILTON COUNTY JAIL,null,null,null,null,null,false
+AL,04592,CLEBURNE COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+AL,01380,ELMORE COUNTY JAIL,null,null,null,null,null,false
+AL,01387,ETOWAH COUNTY JAIL,null,null,null,null,null,false
+AL,01389,EUFAULA CITY JAIL,null,null,null,null,null,false
+AL,01458,HUEYTOWN CITY JAIL,null,null,null,null,null,false
+AL,01552,MONTGOMERY CITY JAIL,null,null,null,null,null,false
+AL,00504,MONTGOMERY CITY JAIL - FEDERAL INMATES,null,null,null,null,null,false
+AL,06353,PERRY COUNTY JAIL,null,null,null,null,null,false
+AL,04944,PICKENS COUNTY JAIL,null,null,null,null,null,false
+AL,05759,SHEFFIELD CITY JAIL,null,null,null,null,null,false
+AL,01691,TENN VALLEY YOUTH DETENTION,null,null,null,null,null,false
+AL,01706,TRUSSVILLE CITY POLICE DEPT,null,null,null,null,null,false
+AL,01707,TUSCALOOSA COUNTY,null,null,null,null,null,false
+AL,02312,TUSCUMBIA CITY JAIL,null,null,null,null,null,false
+AL,01728,WALKER COUNTY JAIL,null,null,null,null,null,falseAR,09322,AR DOC - BENTON UNIT,null,null,null,null,null,false
+AR,09339,AR DOC - CENTRAL ARKANSAS COMMUNITY CORRECTION CENTER,null,null,null,null,null,false
+AR,09323,AR DOC - CUMMINS UNIT,null,null,null,null,null,false
+AR,09324,AR DOC - DELTA REGIONAL UNIT,null,null,null,null,null,false
+AR,09325,AR DOC - EAST ARKANSAS REGIONAL UNIT,null,null,null,null,null,false
+AR,13013,AR DOC - EAST CENTRAL ARKANSAS COMMUNITY CORRECTION CENTER,null,null,null,null,null,false
+AR,07981,AR DOC - ESTER UNIT,null,null,null,null,null,false
+AR,09326,AR DOC - GRIMES UNIT,null,null,null,null,null,false
+AR,09340,AR DOC - J AARON HAWKINS SR CENTER FOR WOMEN,null,null,null,null,null,false
+AR,09328,AR DOC - MCPHERSON UNIT,null,null,null,null,null,false
+AR,09329,AR DOC - MISSISSIPPI COUNTY WORK RELEASE CENTER,null,null,null,null,null,false
+AR,09119,AR DOC - NE ARKANSAS COMMUNITY CORRECTION CENTER,null,null,null,null,null,false
+AR,09330,AR DOC - NORTH CENTRAL UNIT,null,null,null,null,null,false
+AR,77050,AR DOC - NW ARKANSAS COMMUNITY CORRECTION CENTER,null,null,null,null,null,false
+AR,09331,AR DOC - NW ARKANSAS WORK RELEASE CENTER,null,null,null,null,null,false
+AR,07495,AR DOC - OMEGA TECHNICAL VIOLATOR CENTER,null,null,null,null,null,false
+AR,09332,AR DOC - OUACHITA RIVER UNIT,null,null,null,null,null,false
+AR,07715,AR DOC - PINE BLUFF RE-ENTRY CENTER,null,null,null,null,null,false
+AR,09333,AR DOC - PINE BLUFF UNIT,null,null,null,null,null,false
+AR,09334,AR DOC - RANDALL L WILLIAMS FACILITY,null,null,null,null,null,false
+AR,09097,AR DOC - STATE POLICE BARRACKS,null,null,null,null,null,false
+AR,07781,AR DOC - SW ARKANSAS COMMUNITY CORRECTION CENTER,null,null,null,null,null,false
+AR,09335,AR DOC - TEXARKANA REGION CORRECTION CENTER,null,null,null,null,null,false
+AR,09327,AR DOC - TUCKER MAXIMUM SECURITY UNIT,null,null,null,null,null,false
+AR,07806,AR DOC - TUCKER RE-ENTRY CENTER,null,null,null,null,null,false
+AR,09336,AR DOC - TUCKER UNIT,null,null,null,null,null,false
+AR,09337,AR DOC - VARNER UNIT,null,null,null,null,null,false
+AR,09136,AR DOC - VIDEO VISITATION,null,null,null,null,null,false
+AR,09397,AR DOC - VIDEO VISITATION MAX,null,null,null,null,null,false
+AR,09338,AR DOC - WRIGHTSVILLE UNIT,null,null,null,null,null,false
+AR,05550,BAXTER COUNTY SHERIFFS OFFICE,null,null,null,null,null,false
+AR,05782,GARLAND COUNTY DETENTION CENTER,null,null,null,null,null,false
+AR,08239,LAKE VILLAGE CITY JAIL,null,null,null,null,null,false
+AR,06070,MISSISSIPPI COUNTY DETENTION CENTER,null,null,null,null,null,false
+AR,08122,NEVADA COUNTY JAIL,null,null,null,null,null,false
+AR,00722,OSCEOLA CRIMINAL JUSTICE CENTER,null,null,null,null,null,false
+AR,07589,SALINE COUNTY DETENTION CENTER,null,null,null,null,null,false
+AR,03900,WHITE RIVER REGIONAL JUVENILE,null,null,null,null,null,falseAZ,04239,AK - CHIN POLICE DEPT,null,null,null,null,null,false
+AZ,06320,APACHE COUNTY JAIL,null,null,null,null,null,false
+AZ,14071,COCHISE COUNTY MAIN JAIL,null,null,null,null,null,false
+AZ,04096,COCHISE COUNTY SIERRA VISTA,null,null,null,null,null,false
+AZ,04097,COCHISE COUNTY WILLCOX,null,null,null,null,null,false
+AZ,07077,PINAL COUNTY,null,null,null,null,null,false
+AZ,07077A,PINAL COUNTY ATTORNEY, AZ,null,null,null,null,null,false
+AZ,05785,SALT RIVER PIMA MARICOPA INDIAN COMMUNITY,null,null,null,null,null,false
+AZ,14009,SANTA CRUZ COUNTY DETENTION CENTER,null,null,null,null,null,false
+AZ,06835,YAVAPAI COUNTY EASTERN DETENTION BUREAU - CAMP VERDE,null,null,null,null,null,false
+AZ,07800,YAVAPAI COUNTY NORTHERN DETENTION BUREAU - PRESCOTT,null,null,null,null,null,false
+AZ,06835A,YAVAPAI COUNTY, AZ - PROFESSIONAL,null,null,null,null,null,false
+AZ,00472,YUMA COUNTY JUVENILE JUSTICE CENTER,null,null,null,null,null,falseCA,01218,AMADOR COUNTY JAIL,null,null,null,null,null,false
+CA,15162,CALAVERAS COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+CA,05676,DEL NORTE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+CA,05977,FRESNO COUNTY JUVENILE JUSTICE CENTER,null,null,null,null,null,false
+CA,08175,HEMET CITY POLICE DEPT,null,null,null,null,null,false
+CA,04617,INYO COUNTY JAIL,null,null,null,null,null,false
+CA,05841,KERN COUNTY - LERDO JUSTICE FACILITY,null,null,null,null,null,false
+CA,05841A,KERN COUNTY - LERDO JUSTICE FACILITY ATTORNEY,CA,null,null,null,null,null,false
+CA,09283,KERN COUNTY - LERDO MAX/MED FACILITY,null,null,null,null,null,false
+CA,03676,KERN COUNTY - LERDO MINIMUM FACILITY & INMATE SERVICES SECTION,null,null,null,null,null,false
+CA,03677,KERN COUNTY - LERDO PRE-TRIAL FACILITY,null,null,null,null,null,false
+CA,00852,KERN COUNTY - SHERIFF'S MOJAVE SUBSTATION,null,null,null,null,null,false
+CA,03652,KERN COUNTY - SHERIFF'S OFFICE CENTRAL RECEIVING FACILITY,null,null,null,null,null,false
+CA,04268,KERN COUNTY - SHERIFF'S RIDGECREST SUBSTATION,null,null,null,null,null,false
+CA,00227,LOMPOC CITY JAIL,null,null,null,null,null,false
+CA,00363,MADERA COUNTY DOC,null,null,null,null,null,false
+CA,00445,MODOC COUNTY JAIL,null,null,null,null,null,false
+CA,03657,MONO COUNTY SHERIFFS DEPT,null,null,null,null,null,false
+CA,15173,NAPA COUNTY DOC,null,null,null,null,null,false
+CA,15172,NAPA COUNTY JUVENILE PROBATION,null,null,null,null,null,false
+CA,05267,RIVERSIDE COUNTY - BLYTHE JAIL,null,null,null,null,null,false
+CA,05266,RIVERSIDE COUNTY - COIS M BYRD DETENTION CENTER,null,null,null,null,null,false
+CA,07154,RIVERSIDE COUNTY - JOHN J BENOIT DETENTION CENTER,null,null,null,null,null,false
+CA,05265,RIVERSIDE COUNTY - LARRY D SMITH CORRECTIONS,null,null,null,null,null,false
+CA,05268,RIVERSIDE COUNTY - REGIONAL MEDICAL CENTER,null,null,null,null,null,false
+CA,05269,RIVERSIDE COUNTY - ROBERT PRESLEY DETENTION CENTER,null,null,null,null,null,false
+CA,00849,SAN BENITO COUNTY JUVENILE DEPT,null,null,null,null,null,false
+CA,05249,SAN BERNARDINO COUNTY - BARSTOW STATION JAIL,null,null,null,null,null,false
+CA,05246,SAN BERNARDINO COUNTY - BIG BEAR STATION JAIL,null,null,null,null,null,false
+CA,07092,SAN BERNARDINO COUNTY - CENTRAL DETENTION FACILITY,null,null,null,null,null,false
+CA,09165,SAN BERNARDINO COUNTY - COLORADO RIVER JAIL,null,null,null,null,null,false
+CA,05247,SAN BERNARDINO COUNTY - GLEN HELEN REHABILIATATION CENTER,null,null,null,null,null,false
+CA,05248,SAN BERNARDINO COUNTY - HIGH DESERT DETENTION FACILTY,null,null,null,null,null,false
+CA,06999,SAN BERNARDINO COUNTY - MORONGO BASIN STATION JAIL,null,null,null,null,null,false
+CA,07660,SAN BERNARDINO COUNTY WEST VALLEY DETENTION CENTER,null,null,null,null,null,false
+CA,07416A,SAN DIEGO - LAS COLINAS DET RE FAC - ATTORNEY,null,null,null,null,null,false
+CA,04857,SAN DIEGO COUNTY - CENTRAL JAIL,null,null,null,null,null,false
+CA,05535,SAN DIEGO COUNTY - E MESA JUVENILE DETENTION FACILITY,null,null,null,null,null,false
+CA,09300,SAN DIEGO COUNTY - FACILITY 8,null,null,null,null,null,false
+CA,04908,SAN DIEGO COUNTY - GEORGE BAILEY DETENTION FACILITY,null,null,null,null,null,false
+CA,04939,SAN DIEGO COUNTY - GIRLS REHAB FACILITY,null,null,null,null,null,false
+CA,04946,SAN DIEGO COUNTY - KEARNY MESA JUVENILE DETENTION FACILITY,null,null,null,null,null,false
+CA,07416,SAN DIEGO COUNTY - LAS COLINAS DETENTION & RE-ENTRY FACILITY,null,null,null,null,null,false
+CA,04935,SAN DIEGO COUNTY - S BAY DETENTION FACILITY,null,null,null,null,null,false
+CA,04858,SAN DIEGO COUNTY - VISTA DETENTION FACILITY,null,null,null,null,null,false
+CA,09301,SAN DIEGO EAST MESA DET FACILITY,null,null,null,null,null,false
+CA,05650,SAN JOAQUIN COUNTY JAIL,null,null,null,null,null,false
+CA,09512,SAN JOAQUIN COUNTY JAIL - BOOKING,null,null,null,null,null,false
+CA,05967,SAN MATEO COUNTY YOUTH SERVICES CENTER,null,null,null,null,null,false
+CA,00858,SANTA CRUZ COUNTY JUVENILE HALL,null,null,null,null,null,false
+CA,06606,SUTTER COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+CA,15171,TRINITY COUNTY PROBATION,null,null,null,null,null,false
+CA,15170,TRINITY COUNTY SHERIFF,null,null,null,null,null,false
+CA,07397,VENTURA COUNTY - EAST VALLEY JAIL,null,null,null,null,null,false
+CA,06972,VENTURA COUNTY - PRETRIAL DETENTION FACILITY,null,null,null,null,null,false
+CA,07295,VENTURA COUNTY - PROBATION DETENTION CENTER,null,null,null,null,null,false
+CA,06744,VENTURA COUNTY - TODD RD JAIL FACILITY,null,null,null,null,null,falseCO,07136,ARAPAHOE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+CO,05403,AURORA MUNICIPAL COURT ADMINISTRATION,null,null,null,null,null,false
+CO,08832,BENT COUNTY JAIL,null,null,null,null,null,false
+CO,04540,BROOMFIELD CITY JAIL,null,null,null,null,null,false
+CO,08186,CHAFFEE COUNTY JAIL,null,null,null,null,null,false
+CO,05467,CHIEF IGNACIO JUSTICE CENTER,null,null,null,null,null,false
+CO,04983,CLEAR CREEK COUNTY JAIL,null,null,null,null,null,false
+CO,05306,DELTA COUNTY JAIL,null,null,null,null,null,false
+CO,16012,DENVER COUNTY JAIL,null,null,null,null,null,false
+CO,16011,DENVER DOWNTOWN DETENTION CENTER,null,null,null,null,null,false
+CO,16014,DOUGLAS COUNTY DETENTION CENTER,null,null,null,null,null,false
+CO,08835,FREMONT COUNTY DETENTION CENTER,null,null,null,null,null,false
+CO,08824,GUNNISON COUNTY JAIL,null,null,null,null,null,false
+CO,08838,HUERFANO COUNTY JAIL,null,null,null,null,null,false
+CO,06713,JEFFERSON COUNTY SHERIFF'S BOOKING,null,null,null,null,null,false
+CO,05152,JEFFERSON COUNTY SHERIFF'S DETENTION FACILITY,null,null,null,null,null,false
+CO,08839,LAKE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+CO,05688,LAPLATA COUNTY JAIL,null,null,null,null,null,false
+CO,05562,LAS ANIMAS COUNTY JAIL,null,null,null,null,null,false
+CO,08177,LINCOLN COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+CO,06412,MORGAN COUNTY JAIL,null,null,null,null,null,false
+CO,08927,PARK COUNTY DETENTION CENTER,null,null,null,null,null,false
+CO,03683,PUEBLO COUNTY DETENTION CENTER,null,null,null,null,null,false
+CO,07128,PUEBLO COUNTY JUDICIAL BLDG,null,null,null,null,null,false
+CO,05401,ROUTT COUNTY JAIL,null,null,null,null,null,false
+CO,00520,SAGUACHE COUNTY JAIL,null,null,null,null,null,false
+CO,03803,SOUTHERN UTE INDIAN TRIBE,null,null,null,null,null,false
+CO,05544,SUMMIT COUNTY JAIL,null,null,null,null,null,false
+CO,06837,WELD COUNTY ALTERNATIVE SENTENCING,null,null,null,null,null,false
+CO,06721,WELD COUNTY COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+CO,05619,WELD NORTH JAIL COMPLEX,null,null,null,null,null,falseCT,08460,CT DOC - BRIDGEPORT CORRECTIONAL CENTER,null,null,null,null,null,false
+CT,08465,CT DOC - BROOKLYN CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,09215,CT DOC - CENTRAL OFFICE,null,null,null,null,null,false
+CT,09261,CT DOC - CHESHIRE ANNEX,null,null,null,null,null,false
+CT,08520,CT DOC - CHESHIRE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08525,CT DOC - CORRIGAN CORRECTIONAL CENTER,null,null,null,null,null,false
+CT,08535,CT DOC - CYBULSKI CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08544,CT DOC - GARNER CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08551,CT DOC - HARTFORD CORRECTIONAL CENTER,null,null,null,null,null,false
+CT,08552,CT DOC - JOHN DEMPSEY HOSPITAL (UCONN),null,null,null,null,null,false
+CT,08569,CT DOC - MACDOUGALL CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08586,CT DOC - MANSON YOUTH INSTITUTION,null,null,null,null,null,false
+CT,08594,CT DOC - NEW HAVEN CORRECTIONAL CENTER,null,null,null,null,null,false
+CT,08681,CT DOC - NORTHERN CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08708,CT DOC - OSBORN CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08730,CT DOC - RADGOWSKI CORRECTIONAL CENTER,null,null,null,null,null,false
+CT,08813,CT DOC - WALKER RECEPTION (RSMU),null,null,null,null,null,false
+CT,08830,CT DOC - WILLARD CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08860,CT DOC - YORK CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+CT,08783,CT DOC -ROBINSON CORRECTIONAL INSTUTION,null,null,null,null,null,falseDC,00797,DC DOC - CORRECTIONAL TREATMENT FACILITY,null,null,null,null,null,falseFL,06546,ALACHUA COUNTY JAIL,null,null,null,null,null,false
+FL,07068A,BAKER COUNTY DETENTION CENTER (ATTORNEY ONLY),null,null,null,null,null,false
+FL,07068,BAKER COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+FL,05275,BRADFORD COUNTY JAIL,null,null,null,null,null,false
+FL,19021,BROWARD COUNTY - BROWARD COUNTY MAIN JAIL,null,null,null,null,null,false
+FL,19071,BROWARD COUNTY - JOSEPH CONTE DETENTION,null,null,null,null,null,false
+FL,19023,BROWARD COUNTY - NORTH BROWARD DETENTION CENTER,null,null,null,null,null,false
+FL,19023D,BROWARD COUNTY - NORTH BROWARD UNIT 11,null,null,null,null,null,false
+FL,19089,BROWARD COUNTY - PAUL REIN DETENTION FACILITY,null,null,null,null,null,false
+FL,07518,BROWARD COUNTY VISITATION CENTER,null,null,null,null,null,false
+FL,00772,CCA LAKE CITY CORRECTIONAL FACILITY,null,null,null,null,null,false
+FL,04981,CLAY COUNTY JAIL,null,null,null,null,null,false
+FL,04146,COLLIER COUNTY JAIL CENTER,null,null,null,null,null,false
+FL,19094,COLUMBIA COUNTY DETENTION FACILITY,null,null,null,null,null,false
+FL,19094A,COLUMBIA COUNTY DETENTION FACILITY-ATTORNEY,null,null,null,null,null,false
+FL,06143,FL DOC - APALACHEE CI - EAST,null,null,null,null,null,false
+FL,06142,FL DOC - APALACHEE CI - WEST,null,null,null,null,null,false
+FL,06246,FL DOC - ATLANTIC WRC,null,null,null,null,null,false
+FL,06216,FL DOC - AVON PARK CI,null,null,null,null,null,false
+FL,06217,FL DOC - AVON PARK WORK CAMP,null,null,null,null,null,false
+FL,06148,FL DOC - BAKER CI,null,null,null,null,null,false
+FL,08016,FL DOC - BAKER RE-ENTRY CENTER,null,null,null,null,null,false
+FL,06149,FL DOC - BAKER WORK CAMP,null,null,null,null,null,false
+FL,06145,FL DOC - CALHOUN CI,null,null,null,null,null,false
+FL,06146,FL DOC - CALHOUN WORK CAMP,null,null,null,null,null,false
+FL,06221,FL DOC - CENTRAL FLORIDA RECEPTION CENTER,null,null,null,null,null,false
+FL,06287,FL DOC - CENTRAL OFFICE - SECURITY - IG'S OFFICE,null,null,null,null,null,false
+FL,06154,FL DOC - CENTURY CI,null,null,null,null,null,false
+FL,06155,FL DOC - CENTURY WORK CAMP,null,null,null,null,null,false
+FL,06229,FL DOC - CFRC EAST,null,null,null,null,null,false
+FL,06224,FL DOC - CHARLOTTE CI,null,null,null,null,null,false
+FL,06152,FL DOC - COLUMBIA ANNEX,null,null,null,null,null,false
+FL,06150,FL DOC - COLUMBIA CI,null,null,null,null,null,false
+FL,06151,FL DOC - COLUMBIA WORK CAMP,null,null,null,null,null,false
+FL,06234,FL DOC - CRFC SOUTH,null,null,null,null,null,false
+FL,06161,FL DOC - CROSS CITY CI,null,null,null,null,null,false
+FL,00761,FL DOC - CROSS CITY EAST UNIT,null,null,null,null,null,false
+FL,06162,FL DOC - CROSS CITY WORK CAMP,null,null,null,null,null,false
+FL,06225,FL DOC - DADE CI,null,null,null,null,null,false
+FL,06227,FL DOC - DESOTO ANNEX,null,null,null,null,null,false
+FL,06228,FL DOC - DESOTO WORK CAMP,null,null,null,null,null,false
+FL,06243,FL DOC - EVERGLADES CI,null,null,null,null,null,false
+FL,00766,FL DOC - EVERGLADES RE-ENTRY CENTER,null,null,null,null,null,false
+FL,06163,FL DOC - FLORIDA STATE PRISON,null,null,null,null,null,false
+FL,09048,FL DOC - FLORIDA WOMENS RECEPTION CENTER,null,null,null,null,null,false
+FL,06158,FL DOC - FRANKLIN CI,null,null,null,null,null,false
+FL,07758,FL DOC - FRANKLIN WORK CAMP,null,null,null,null,null,false
+FL,06197,FL DOC - FSP WEST,null,null,null,null,null,false
+FL,06262,FL DOC - FT MYERS WORK CAMP,null,null,null,null,null,false
+FL,06275,FL DOC - FT PIERCE WRC,null,null,null,null,null,false
+FL,07561,FL DOC - GADSDEN RE-ENTRY CENTER,null,null,null,null,null,false
+FL,06166,FL DOC - GAINESVILLE WORK CAMP,null,null,null,null,null,false
+FL,06175,FL DOC - GRACEVILLE WORK CAMP,null,null,null,null,null,false
+FL,06169,FL DOC - GULF ANNEX,null,null,null,null,null,false
+FL,06160,FL DOC - GULF CI,null,null,null,null,null,false
+FL,06170,FL DOC - GULF FORESTRY CAMP,null,null,null,null,null,false
+FL,06179,FL DOC - HAMILTON ANNEX,null,null,null,null,null,false
+FL,06168,FL DOC - HAMILTON CI,null,null,null,null,null,false
+FL,06178,FL DOC - HAMILTON WORK CAMP,null,null,null,null,null,false
+FL,06249,FL DOC - HARDEE CI,null,null,null,null,null,false
+FL,06259,FL DOC - HARDEE WORK CAMP,null,null,null,null,null,false
+FL,06237,FL DOC - HERNANDO CI,null,null,null,null,null,false
+FL,06279,FL DOC - HOLLYWOOD WRC,null,null,null,null,null,false
+FL,06171,FL DOC - HOLMES CI,null,null,null,null,null,false
+FL,06172,FL DOC - HOLMES WORK CAMP,null,null,null,null,null,false
+FL,06263,FL DOC - HOMESTEAD CI,null,null,null,null,null,false
+FL,06173,FL DOC - JACKSON CI,null,null,null,null,null,false
+FL,06174,FL DOC - JACKSON WORK CAMP,null,null,null,null,null,false
+FL,06176,FL DOC - JEFFERSON CI,null,null,null,null,null,false
+FL,06235,FL DOC - KISSIMMEE WRC,null,null,null,null,null,false
+FL,06239,FL DOC - LAKE CI,null,null,null,null,null,false
+FL,06180,FL DOC - LANCASTER CI,null,null,null,null,null,false
+FL,06181,FL DOC - LANCASTER WORK CAMP,null,null,null,null,null,false
+FL,06258,FL DOC - LARGO ROAD PRISON,null,null,null,null,null,false
+FL,06182,FL DOC - LAWTEY CI,null,null,null,null,null,false
+FL,06177,FL DOC - LIBERTY CI,null,null,null,null,null,false
+FL,06186,FL DOC - LIBERTY WORK CAMP,null,null,null,null,null,false
+FL,06241,FL DOC - LOWELL ANNEX,null,null,null,null,null,false
+FL,06240,FL DOC - LOWELL CI,null,null,null,null,null,false
+FL,06363,FL DOC - LOWELL WORK CAMP,null,null,null,null,null,false
+FL,06247,FL DOC - LOXAHATCHEE ROAD PRISON,null,null,null,null,null,false
+FL,06185,FL DOC - MADISON CI,null,null,null,null,null,false
+FL,06193,FL DOC - MADISON WORK CAMP,null,null,null,null,null,false
+FL,06253,FL DOC - MARION CI,null,null,null,null,null,false
+FL,06254,FL DOC - MARION WORK CAMP,null,null,null,null,null,false
+FL,06265,FL DOC - MARTIN CI,null,null,null,null,null,false
+FL,06266,FL DOC - MARTIN WORK CAMP,null,null,null,null,null,false
+FL,06684,FL DOC - MAYO ANNEX,null,null,null,null,null,false
+FL,06280,FL DOC - MIAMI NORTH WRC,null,null,null,null,null,false
+FL,06196,FL DOC - NEW RIVER CI EAST,null,null,null,null,null,false
+FL,07936,FL DOC - NEW RIVER WORK CAMP,null,null,null,null,null,false
+FL,06207,FL DOC - NORTHWEST FLORIDA RECEPTION CENTER,null,null,null,null,null,false
+FL,06208,FL DOC - NWFRC ANNEX,null,null,null,null,null,false
+FL,06188,FL DOC - OKALOOSA CI,null,null,null,null,null,false
+FL,06189,FL DOC - OKALOOSA WORK CAMP,null,null,null,null,null,false
+FL,06276,FL DOC - OKEECHOBEE CI,null,null,null,null,null,false
+FL,07376,FL DOC - OKEECHOBEE WORK CAMP,null,null,null,null,null,false
+FL,06236,FL DOC - ORLANDO WRC,null,null,null,null,null,false
+FL,06210,FL DOC - PANAMA CITY WRC,null,null,null,null,null,false
+FL,06157,FL DOC - PENSACOLA WRC,null,null,null,null,null,false
+FL,06255,FL DOC - POLK CI,null,null,null,null,null,false
+FL,06256,FL DOC - POLK WORK CAMP,null,null,null,null,null,false
+FL,06270,FL DOC - PUTNAM CI,null,null,null,null,null,false
+FL,06187,FL DOC - QUINCY ANNEX,null,null,null,null,null,false
+FL,06285,FL DOC - REALITY HOUSE,null,null,null,null,null,false
+FL,06198,FL DOC - RECEPTION & MEDICAL CENTER,null,null,null,null,null,false
+FL,06199,FL DOC - RECEPTION & MEDICAL CENTER WEST,null,null,null,null,null,false
+FL,06200,FL DOC - RECEPTION & MEDICAL CENTER WORK CAMP,null,null,null,null,null,false
+FL,06558,FL DOC - SAGO PALM WORK CAMP,null,null,null,null,null,false
+FL,06191,FL DOC - SANTA ROSA ANNEX,null,null,null,null,null,false
+FL,06190,FL DOC - SANTA ROSA CI,null,null,null,null,null,false
+FL,07038,FL DOC - SANTA ROSA WORK CAMP,null,null,null,null,null,false
+FL,06278,FL DOC - SFRC SOUTH UNIT,null,null,null,null,null,false
+FL,06184,FL DOC - SHISA HOUSE EAST,null,null,null,null,null,false
+FL,06277,FL DOC - SOUTH FLORIDA RECEPTION CENTER,null,null,null,null,null,false
+FL,06268,FL DOC - ST PETERSBURG WRC,null,null,null,null,null,false
+FL,06272,FL DOC - SUMTER BOOT CAMP,null,null,null,null,null,false
+FL,06271,FL DOC - SUMTER CI,null,null,null,null,null,false
+FL,06273,FL DOC - SUMTER WORK CAMP,null,null,null,null,null,false
+FL,06693,FL DOC - SUWANNEE ANNEX,null,null,null,null,null,false
+FL,06621,FL DOC - SUWANNEE CI,null,null,null,null,null,false
+FL,06602,FL DOC - SUWANNEE WORK CAMP,null,null,null,null,null,false
+FL,06204,FL DOC - TALLAHASSEE WRC,null,null,null,null,null,false
+FL,06212,FL DOC - TAYLOR ANNEX,null,null,null,null,null,false
+FL,06211,FL DOC - TAYLOR CI,null,null,null,null,null,false
+FL,06213,FL DOC - TAYLOR WORK CAMP,null,null,null,null,null,false
+FL,06274,FL DOC - TOMOKA CI,null,null,null,null,null,false
+FL,06283,FL DOC - TOMOKA WORK CAMP,null,null,null,null,null,false
+FL,06214,FL DOC - UNION CI,null,null,null,null,null,false
+FL,06288,FL DOC - WAKULLA ANNEX,null,null,null,null,null,false
+FL,06192,FL DOC - WAKULLA CI,null,null,null,null,null,false
+FL,06202,FL DOC - WAKULLA WORK CAMP,null,null,null,null,null,false
+FL,06205,FL DOC - WALTON CI,null,null,null,null,null,false
+FL,06206,FL DOC - WALTON WORK CAMP,null,null,null,null,null,false
+FL,06248,FL DOC - WEST PALM BEACH WRC,null,null,null,null,null,false
+FL,06286,FL DOC - ZEPHYRHILLS,null,null,null,null,null,false
+FL,05333,FLAGLER COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+FL,06611,FLORIDA CIVIL COMMITMENT CENTER (FCCC),null,null,null,null,null,false
+FL,09225,FRANKLIN COUNTY JAIL,null,null,null,null,null,false
+FL,09105,GADSDEN COUNTY JAIL,null,null,null,null,null,false
+FL,19065,HARDEE COUNTY JAIL,null,null,null,null,null,false
+FL,08894,JACKSON COUNTY JAIL,null,null,null,null,null,false
+FL,04309,LAKE COUNTY DETENTION CENTER,null,null,null,null,null,false
+FL,07596,LEON COUNTY JAIL,null,null,null,null,null,false
+FL,09226,LEVY COUNTY JAIL,null,null,null,null,null,false
+FL,00624,MADISON COUNTY JAIL,null,null,null,null,null,false
+FL,19087A,MARION COUNTY ATTORNEY VISITATION, FL,null,null,null,null,null,false
+FL,19087,MARION COUNTY JAIL,null,null,null,null,null,false
+FL,04854,MTC GADSDEN CORRECTIONAL FACILITY,null,null,null,null,null,false
+FL,06725,OKALOOSA COUNTY DEPT OF CORRECTIONAL SERVICES,null,null,null,null,null,false
+FL,19091,PALM BEACH BELLE GLADE DETENTION,null,null,null,null,null,false
+FL,19092,PALM BEACH COUNTY MAIN DETENTION,null,null,null,null,null,false
+FL,07984,POLK COUNTY BOOKING FACILITY,null,null,null,null,null,false
+FL,09185,POLK COUNTY CENTRAL JAIL,null,null,null,null,null,false
+FL,09223,POLK COUNTY SOUTH JAIL,null,null,null,null,null,false
+FL,07625,SEMINOLE COUNTY JAIL,null,null,null,null,null,false
+FL,09107,SUMTER COUNTY DETENTION CENTER,null,null,null,null,null,false
+FL,00576,SUWANNEE COUNTY  JAIL,null,null,null,null,null,false
+FL,06653,TAYLOR COUNTY JAIL,null,null,null,null,null,falseGA,05331,ATHENS CLARKE COUNTY JAIL,null,null,null,null,null,false
+GA,04533,ATKINSON COUNTY JAIL,null,null,null,null,null,false
+GA,00972,BALDWIN COUNTY JAIL,null,null,null,null,null,false
+GA,06390,BARROW COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,06417,BIBB COUNTY ANNEX - G WING,null,null,null,null,null,false
+GA,06140,BIBB COUNTY MAIN JAIL,null,null,null,null,null,false
+GA,20062,BIBB COUNTY NEW JAIL,null,null,null,null,null,false
+GA,05112,BRYAN COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,00430,BULLOCH COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,04366,CARROLL COUNTY JAIL,null,null,null,null,null,false
+GA,04741,CATOOSA COUNTY JAIL,null,null,null,null,null,false
+GA,06702,CHATTOOGA COUNTY JAIL,null,null,null,null,null,false
+GA,09033,CLAYTON COUNTY CORRECTIONS DEPT,null,null,null,null,null,false
+GA,07468,COLUMBIA COUNTY DETENTION CENTER,null,null,null,null,null,false
+GA,80112,DEKALB COUNTY JAIL,null,null,null,null,null,false
+GA,05413,FANNIN COUNTY JAIL,null,null,null,null,null,false
+GA,04950,FAYETTE COUNTY JAIL,null,null,null,null,null,false
+GA,20043,FULTON COUNTY - ALPHARETTA ANNEX,null,null,null,null,null,false
+GA,06807,FULTON COUNTY - SOUTH FULTON MUNICIPAL REGIONAL JAIL,null,null,null,null,null,false
+GA,20019,FULTON COUNTY JAIL,null,null,null,null,null,false
+GA,20056,FULTON COUNTY JAIL  - MARIETTA ANNEX,null,null,null,null,null,false
+GA,20019A,FULTON COUNTY JAIL - REMOTE VISITATION, GA,null,null,null,null,null,false
+GA,80002,GA DOC - AL BURRUSS CORRECTIONAL TRAINING CENTER,null,null,null,null,null,false
+GA,80011,GA DOC - APPLING INTEGRATED TREATMENT FACILITY,null,null,null,null,null,false
+GA,80081,GA DOC - ARRENDALE STATE PRISON,null,null,null,null,null,false
+GA,80205,GA DOC - ARRENDALE TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80017,GA DOC - ATLANTA TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80019,GA DOC - AUGUSTA STATE MEDICAL PRISON,null,null,null,null,null,false
+GA,80016,GA DOC - AUGUSTA TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80020,GA DOC - AUTRY STATE PRISON,null,null,null,null,null,false
+GA,80029,GA DOC - BACON PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80082,GA DOC - BAINBRIDGE PROBATION SUBSTANCE ABUSE TREATMENT CENTER,null,null,null,null,null,false
+GA,80021,GA DOC - BALDWIN STATE PRISON,null,null,null,null,null,false
+GA,80046,GA DOC - BLECKLEY PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80072,GA DOC - CALHOUN STATE PRISON,null,null,null,null,null,false
+GA,80051,GA DOC - CENTRAL STATE PRISON,null,null,null,null,null,false
+GA,80024,GA DOC - CHARLES D HUDSON TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80071,GA DOC - CLAYTON TRANSITIONAL CENTER I & II,null,null,null,null,null,false
+GA,80077,GA DOC - COASTAL STATE PRISON,null,null,null,null,null,false
+GA,09517,GA DOC - COFFEE CORRECTIONAL FACILITY,null,null,null,null,null,false
+GA,80093,GA DOC - COLUMBUS TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80062,GA DOC - COLWELL PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80115,GA DOC - DODGE STATE PRISON,null,null,null,null,null,false
+GA,80110,GA DOC - DOOLY STATE PRISON,null,null,null,null,null,false
+GA,80068,GA DOC - EMANUEL PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80385,GA DOC - EMANUEL WOMEN'S FACILITY,null,null,null,null,null,false
+GA,80151,GA DOC - GEORGIA DIAGNOSTIC & CLASSIFICATION STATE PRISON,null,null,null,null,null,false
+GA,80152,GA DOC - GEORGIA STATE PRISON,null,null,null,null,null,false
+GA,80168,GA DOC - HANCOCK STATE PRISON,null,null,null,null,null,false
+GA,80177,GA DOC - HAYS STATE PRISON,null,null,null,null,null,false
+GA,80090,GA DOC - HELMS FACILITY,null,null,null,null,null,false
+GA,09518,GA DOC - JENKINS CORRECTIONAL FACILITY,null,null,null,null,null,false
+GA,80190,GA DOC - JOHNSON STATE PRISON,null,null,null,null,null,false
+GA,80235,GA DOC - LEE STATE PRISON,null,null,null,null,null,false
+GA,80195,GA DOC - LONG UNIT,null,null,null,null,null,false
+GA,80219,GA DOC - MACON STATE PRISON,null,null,null,null,null,false
+GA,80238,GA DOC - MACON TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80069,GA DOC - MCEVER PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,07926,GA DOC - METRO RE-ENTRY FACILITY,null,null,null,null,null,false
+GA,80239,GA DOC - METRO TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80237,GA DOC - MONTGOMERY STATE PRISON,null,null,null,null,null,false
+GA,80073,GA DOC - PATTEN PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80076,GA DOC - PAULDING PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80273,GA DOC - PHILLIPS STATE PRISON,null,null,null,null,null,false
+GA,80275,GA DOC - PHILLIPS TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80274,GA DOC - PULASKI STATE PRISON,null,null,null,null,null,false
+GA,09519,GA DOC - RIVERBEND CORRECTIONAL FACILITY,null,null,null,null,null,false
+GA,80304,GA DOC - ROGERS STATE PRISON,null,null,null,null,null,false
+GA,80311,GA DOC - RUTLEDGE STATE PRISON,null,null,null,null,null,false
+GA,80278,GA DOC - SMITH STATE PRISON,null,null,null,null,null,false
+GA,80313,GA DOC - SMITH TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80347,GA DOC - TELFAIR STATE PRISON,null,null,null,null,null,false
+GA,06916,GA DOC - TIFT COLLEGE NON CUSTODY,null,null,null,null,null,false
+GA,80080,GA DOC - TREUTLEN PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,80102,GA DOC - TURNER RESIDENTIAL SUBSTANCE ABUSE TREATMENT FACILITY,null,null,null,null,null,false
+GA,00639,GA DOC - VALDOSTA STATE ANNEX,null,null,null,null,null,false
+GA,80368,GA DOC - VALDOSTA STATE PRISON,null,null,null,null,null,false
+GA,80376,GA DOC - VALDOSTA TRANSITIONAL CENTER,null,null,null,null,null,false
+GA,80371,GA DOC - WALKER STATE PRISON/NW RESIDENTIAL TREATMENT FACILITY,null,null,null,null,null,false
+GA,80372,GA DOC - WARE STATE PRISON,null,null,null,null,null,false
+GA,80393,GA DOC - WASHINGTON STATE PRISON,null,null,null,null,null,false
+GA,80379,GA DOC - WEST CENTRAL INTEGRATED TREATMENT FACILITY,null,null,null,null,null,false
+GA,09520,GA DOC - WHEELER CORRECTIONAL FACILITY,null,null,null,null,null,false
+GA,80109,GA DOC - WHITWORTH WOMENS FACILITY,null,null,null,null,null,false
+GA,80389,GA DOC - WILCOX STATE PRISON,null,null,null,null,null,false
+GA,80079,GA DOC - WOMEN'S PROBATION DETENTION CENTER,null,null,null,null,null,false
+GA,20052,GRADY COUNTY JAIL,null,null,null,null,null,false
+GA,80161,GWINNETT COUNTY CORRECTIONAL COMPLEX,null,null,null,null,null,false
+GA,07032,GWINNETT COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,09146,GWINNETT COUNTY WORK RELEASE CENTER,null,null,null,null,null,false
+GA,07674,HALL COUNTY JAIL,null,null,null,null,null,false
+GA,20064,HARRIS COUNTY PRISON,null,null,null,null,null,false
+GA,20061,HENRY COUNTY - ANNEX,null,null,null,null,null,false
+GA,20060,HENRY COUNTY JAIL,null,null,null,null,null,false
+GA,00532,JEFFERSON CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+GA,05512,JEFFERSON COUNTY,null,null,null,null,null,false
+GA,00947,LINCOLN COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,00526,MACON COUNTY JAIL,null,null,null,null,null,false
+GA,00432,MARION COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+GA,00695,MCDUFFIE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,06845,MERIWETHER COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,06296,MONROE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,05144,PIKE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+GA,05123,RICHMOND COUNTY CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+GA,05349,ROCKDALE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,00812,SMYRNA CITY JAIL,null,null,null,null,null,false
+GA,00997,TATTNALL COUNTY SHERIFFS OFFICE,null,null,null,null,null,false
+GA,09163,THOMAS COUNTY DETENTION CENTER,null,null,null,null,null,false
+GA,80351,TIFT COUNTY LAW ENFORCEMENT CENTER,null,null,null,null,null,false
+GA,08576,TROUP COUNTY CI,null,null,null,null,null,false
+GA,05334,TROUP COUNTY JAIL,null,null,null,null,null,false
+GA,01060,WALKER COUNTY SHERIFFS DEPT,null,null,null,null,null,false
+GA,06311,WILKES COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+GA,00524,WILKINSON COUNTY SHERIFF'S OFFICE,null,null,null,null,null,falseIA,08425,AUDUBON COUNTY JAIL,null,null,null,null,null,false
+IA,05702,BREMER COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IA,08804,CASS COUNTY JAIL,null,null,null,null,null,false
+IA,04267,CLARKE COUNTY JAIL,null,null,null,null,null,false
+IA,06132,CRAWFORD COUNTY JAIL,null,null,null,null,null,false
+IA,08448,MAHASKA COUNTY JAIL,null,null,null,null,null,false
+IA,08373,POCAHONTAS COUNTY JAIL,null,null,null,null,null,false
+IA,06418,POLK COUNTY,null,null,null,null,null,false
+IA,04625,STORY COUNTY JAIL,null,null,null,null,null,false
+IA,09383,STORY COUNTY JAIL BOOKING,null,null,null,null,null,false
+IA,08385,WEBSTER COUNTY JAIL,null,null,null,null,null,falseID,08242,BENEWAH COUNTY JAIL,null,null,null,null,null,false
+ID,00566,CUSTER COUNTY JAIL,null,null,null,null,null,false
+ID,00209,IDAHO COUNTY JAIL,null,null,null,null,null,false
+ID,01040,MINI-CASSIA CRIMINAL JUSTICE CENTER,null,null,null,null,null,false
+ID,05685,NEZ PERCE COUNTY JAIL,null,null,null,null,null,false
+ID,04996,VALLEY COUNTY JAIL,null,null,null,null,null,falseIL,08782,ADAMS COUNTY JAIL,null,null,null,null,null,false
+IL,00092,ALTON CITY POLICE DEPT,null,null,null,null,null,false
+IL,04698,BOONE COUNTY JAIL,null,null,null,null,null,false
+IL,04976,CHAMPAIGN COUNTY SATELLITE JAIL,null,null,null,null,null,false
+IL,04906,CHAMPAIGN COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+IL,00100,CLAY COUNTY JAIL,null,null,null,null,null,false
+IL,08933,COLLINSVILLE CITY POLICE DEPT,null,null,null,null,null,false
+IL,00102,CRAWFORD COUNTY JAIL,null,null,null,null,null,false
+IL,00105,DOUGLAS COUNTY JAIL,null,null,null,null,null,false
+IL,00107,FORD COUNTY JAIL,null,null,null,null,null,false
+IL,00108,FULTON COUNTY JAIL,null,null,null,null,null,false
+IL,00109,GRANITE CITY JAIL,null,null,null,null,null,false
+IL,00110,GREENE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,00111,GRUNDY COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,04056,HENDERSON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,00252,HENRY COUNTY JAIL,null,null,null,null,null,false
+IL,09341,IL DOC - BIG MUDDY RIVER CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,23014,IL DOC - CENTRALIA CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09358,IL DOC - CLAYTON WORK CAMP,null,null,null,null,null,false
+IL,06290,IL DOC - DANVILLE CORRECTIONAL FACILITY,null,null,null,null,null,false
+IL,09342,IL DOC - DECATUR CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09343,IL DOC - DIXON CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09364,IL DOC - DIXON SPRINGS IMPACT INCARCERATION PROGRAM,null,null,null,null,null,false
+IL,09353,IL DOC - DUQUOIN IMPACT INCARCERATION PROGRAM,null,null,null,null,null,false
+IL,23021,IL DOC - EAST MOLINE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09344,IL DOC - EAST MOLINE WORK CAMP,null,null,null,null,null,false
+IL,09170,IL DOC - ELGIN TREATMENT CENTER,null,null,null,null,null,false
+IL,23007,IL DOC - GRAHAM CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09351,IL DOC - GREEN COUNTY WORK CAMP,null,null,null,null,null,false
+IL,09345,IL DOC - HILL CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,23006,IL DOC - ILLINOIS RIVER CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09372,IL DOC - ILLINOIS YOUTH CENTER - CHICAGO,null,null,null,null,null,false
+IL,09371,IL DOC - ILLINOIS YOUTH CENTER - HARRISBURG,null,null,null,null,null,false
+IL,09368,IL DOC - ILLINOIS YOUTH CENTER - MURPHYSBORO,null,null,null,null,null,false
+IL,09367,IL DOC - ILLINOIS YOUTH CENTER - PERE MARQUETTE,null,null,null,null,null,false
+IL,09366,IL DOC - ILLINOIS YOUTH CENTER - ST CHARLES,null,null,null,null,null,false
+IL,09365,IL DOC - ILLINOIS YOUTH CENTER - WARRENVILLE,null,null,null,null,null,false
+IL,09346,IL DOC - JACKSONVILLE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09370,IL DOC - JOLIET TREATMENT CENTER,null,null,null,null,null,false
+IL,09369,IL DOC - KCC KEWANEE LIFE SKILLS RE-ENTRY CENTER,null,null,null,null,null,false
+IL,09347,IL DOC - LAWRENCE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09348,IL DOC - LINCOLN CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09349,IL DOC - LOGAN CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09350,IL DOC - MENARD CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,23030,IL DOC - NORTHERN RECEPTION & CLASSIFICATION CENTER,null,null,null,null,null,false
+IL,09159,IL DOC - PEORIA ADULT TRANSITION CENTER,null,null,null,null,null,false
+IL,23028,IL DOC - PINCKNEYVILLE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,23012,IL DOC - PITTSFIELD WORK CAMP,null,null,null,null,null,false
+IL,23008,IL DOC - PONTIAC CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09352,IL DOC - ROBINSON CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09373,IL DOC - RUSHVILLE TREATMENT & DET FACILITY,null,null,null,null,null,false
+IL,09354,IL DOC - SHAWNEE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09355,IL DOC - SHERIDAN CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09356,IL DOC - SOUTHWESTERN ILLINOIS CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09357,IL DOC - SOUTHWESTERN ILLINOIS WORK CAMP,null,null,null,null,null,false
+IL,09361,IL DOC - STATEVILLE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09362,IL DOC - TAYLORVILLE CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,23031,IL DOC - VANDALIA CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,09363,IL DOC - VIENNA CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,23005,IL DOC - WESTERN ILLINOIS CORRECTIONAL CENTER,null,null,null,null,null,false
+IL,00879,IROQUOIS COUNTY JAIL,null,null,null,null,null,false
+IL,00113,JACKSON COUNTY JAIL,null,null,null,null,null,false
+IL,00007,JERSEY COUNTY JAIL,null,null,null,null,null,false
+IL,00117,KANKAKEE COUNTY JAIL,null,null,null,null,null,false
+IL,05599,KANKAKEE COUNTY JEROME COMBS DETENTION CENTER,null,null,null,null,null,false
+IL,05344,KENDALL COUNTY JAIL,null,null,null,null,null,false
+IL,04846,KNOX COUNTY JAIL,null,null,null,null,null,false
+IL,23010,LAKE COUNTY ADULT CORRECTIONAL FACILITY,null,null,null,null,null,false
+IL,00005,LAWRENCE COUNTY JAIL,null,null,null,null,null,false
+IL,06654,LEE COUNTY SHERIFF DEPT,null,null,null,null,null,false
+IL,06768,LEE COUNTY SHERIFF'S DEPT (NEW),null,null,null,null,null,false
+IL,23038,MACON COUNTY JAIL,null,null,null,null,null,false
+IL,00049,MARSHALL COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,00055,MASON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,08230,MASSAC COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,00077,MERCER COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+IL,00084,OGLE COUNTY JAIL,null,null,null,null,null,false
+IL,00155,PIATT COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IL,00283,PIKE COUNTY JAIL,null,null,null,null,null,false
+IL,00090,ROCK ISLAND SHERIFF'S DEPT,null,null,null,null,null,false
+IL,00135,SALINE COUNTY JAIL,null,null,null,null,null,false
+IL,00091,SHELBY COUNTY JAIL,null,null,null,null,null,false
+IL,00136,ST CLAIR COUNTY JAIL,null,null,null,null,null,false
+IL,00119,STEPHENSON COUNTY JAIL,null,null,null,null,null,false
+IL,23043,TAZEWELL COUNTY JUSTICE CENTER,null,null,null,null,null,false
+IL,00121,UNION COUNTY JAIL,null,null,null,null,null,false
+IL,00122,VERMILION COUNTY JAIL,null,null,null,null,null,false
+IL,00124,WARREN COUNTY JAIL,null,null,null,null,null,false
+IL,00125,WASHINGTON COUNTY JAIL,null,null,null,null,null,false
+IL,00128,WHITESIDE COUNTY JAIL,null,null,null,null,null,false
+IL,23018,WILL COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+IL,08092,WILL COUNTY ADULT DETENTION CENTER BOND PHONE POD A,null,null,null,null,null,false
+IL,08093,WILL COUNTY ADULT DETENTION CENTER BOND PHONE POD E,null,null,null,null,null,false
+IL,08094,WILL COUNTY ADULT DETENTION CENTER BOND PHONE POD F,null,null,null,null,null,false
+IL,00131,WOODFORD COUNTY JAIL,null,null,null,null,null,falseIN,06698,BARTHOLOMEW COUNTY JAIL,null,null,null,null,null,false
+IN,24085,CLAY COUNTY JUSTICE CENTER,null,null,null,null,null,false
+IN,04441,ELKHART COUNTY COMMUNITY CORRECTIONS,null,null,null,null,null,false
+IN,06230,ELKHART COUNTY JAIL,null,null,null,null,null,false
+IN,06394,ELKHART POLICE DEPT,null,null,null,null,null,false
+IN,24028,FLOYD COUNTY JAIL,null,null,null,null,null,false
+IN,00025,FRANKLIN COUNTY JAIL,null,null,null,null,null,false
+IN,06317,GRANT COUNTY JUVENILE CENTER,null,null,null,null,null,false
+IN,06316,GRANT COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IN,00647,HARRISON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IN,06404,HENDRICKS COUNTY WORK RELEASE,null,null,null,null,null,false
+IN,05927,JEFFERSON COUNTY JAIL,null,null,null,null,null,false
+IN,08199,KOSCIUSKO COUNTY JAIL,null,null,null,null,null,false
+IN,08915,KOSCIUSKO COUNTY WORK RELEASE,null,null,null,null,null,false
+IN,08201,LAPORTE COUNTY COMMUNITY CORRECTIONS,null,null,null,null,null,false
+IN,00741,LAPORTE COUNTY JAIL,null,null,null,null,null,false
+IN,06115,LAWRENCE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+IN,06378,MADISON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IN,07483,MARION COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+IN,05883,MONTGOMERY COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IN,24046,MORGAN COUNTY JAIL,null,null,null,null,null,false
+IN,24046A,MORGAN COUNTY JAIL-ATTORNEY,null,null,null,null,null,false
+IN,00640,PULASKI COUNTY JAIL,null,null,null,null,null,false
+IN,00074,SHELBY COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+IN,06723,TIPPECANOE COUNTY COMMUNITY CORRECTIONS,null,null,null,null,null,false
+IN,05820,VIGO COUNTY COMMUNITY CORRECTIONAL CENTER,null,null,null,null,null,falseKS,08607,BARTON COUNTY JAIL,null,null,null,null,null,false
+KS,04834,BUTLER COUNTY CORRECTIONS,null,null,null,null,null,false
+KS,08632,COWLEY COUNTY JAIL,null,null,null,null,null,false
+KS,08641,DICKINSON COUNTY JAIL,null,null,null,null,null,false
+KS,08644,EDWARDS COUNTY JAIL,null,null,null,null,null,false
+KS,08452,ELLSWORTH COUNTY JAIL,null,null,null,null,null,false
+KS,08647,FORD COUNTY JAIL,null,null,null,null,null,false
+KS,25022,HARVEY COUNTY JAIL,null,null,null,null,null,false
+KS,08630,LABETTE COUNTY JAIL,null,null,null,null,null,false
+KS,08806,LINCOLN COUNTY JAIL,null,null,null,null,null,false
+KS,08365,MCPHERSON COUNTY JAIL,null,null,null,null,null,false
+KS,08687,MEADE COUNTY JAIL,null,null,null,null,null,false
+KS,08701,OSBORNE COUNTY JAIL,null,null,null,null,null,false
+KS,08703,OTTAWA COUNTY JAIL,null,null,null,null,null,false
+KS,04457,RICE COUNTY LAW ENFORCEMENT CENTER,null,null,null,null,null,false
+KS,08180,SALINE COUNTY JAIL,null,null,null,null,null,false
+KS,25002,SEDGWICK COUNTY DETENTION FACILITY,null,null,null,null,null,false
+KS,07889,SEDGWICK COUNTY DETENTION FACILITY ANNEX,null,null,null,null,null,false
+KS,05493,SEDGWICK COUNTY JUVENILE DETENTION FACILITY,null,null,null,null,null,false
+KS,05914,SEWARD COUNTY,null,null,null,null,null,false
+KS,25003,SHAWNEE COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+KS,09265,SHAWNEE COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+KS,08330,SMITH COUNTY  JAIL,null,null,null,null,null,false
+KS,08735,STEVENS COUNTY JAIL,null,null,null,null,null,false
+KS,07278,SUMNER COUNTY JAIL,null,null,null,null,null,falseKY,05088,BARREN COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,00240,BIG SANDY REGIONAL DETENTION CENTER,null,null,null,null,null,false
+KY,00707,CALDWELL COUNTY JAIL,null,null,null,null,null,false
+KY,04690,CARTER COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,04606,CLAY COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,00847,CLINTON COUNTY JAIL,null,null,null,null,null,false
+KY,06307,CRITTENDEN COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,05074,FLOYD COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,05047,FRANKLIN COUNTY FISCAL COURT,null,null,null,null,null,false
+KY,07493,GRAVES COUNTY JAIL-MAX,null,null,null,null,null,false
+KY,06829,GRAVES COUNTY RESTRICTIVE CUSTODY FACILITY,null,null,null,null,null,false
+KY,00306,HARDIN COUNTY ANNEX,null,null,null,null,null,false
+KY,00626,HARDIN COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,04995,HARDIN COUNTY RESTRICTED CUSTODY BLDG,null,null,null,null,null,false
+KY,03882,HART COUNTY JAIL,null,null,null,null,null,false
+KY,06376,HENDERSON COUNTY COMMUNITY SERVICES,null,null,null,null,null,false
+KY,04435,HENDERSON COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,05917,KY DOC - BELL FORESTRY CAMP,null,null,null,null,null,false
+KY,05940,KY DOC - BLACKBURN CORRECTIONAL COMPLEX,null,null,null,null,null,false
+KY,05945,KY DOC - EASTERN KENTUCKY CORRECTIONAL COMPLEX,null,null,null,null,null,false
+KY,05900,KY DOC - GREEN RIVER CORRECTIONAL COMPLEX,null,null,null,null,null,false
+KY,05948,KY DOC - KENTUCKY CORRECTIONAL INSTITUTION FOR WOMEN,null,null,null,null,null,false
+KY,05949,KY DOC - KENTUCKY STATE PENITENTIARY,null,null,null,null,null,false
+KY,05899,KY DOC - KENTUCKY STATE REFORMATORY,null,null,null,null,null,false
+KY,05955,KY DOC - LEE ADJUSTMENT CENTER,null,null,null,null,null,false
+KY,05954,KY DOC - LITTLE SANDY CORRECTIONAL COMPLEX,null,null,null,null,null,false
+KY,05946,KY DOC - LUTHER LUCKETT CORRECTIONAL COMPLEX,null,null,null,null,null,false
+KY,05950,KY DOC - NORTHPOINT TRAINING CENTER,null,null,null,null,null,false
+KY,05997,KY DOC - PSYCHIATRIC CENTER,null,null,null,null,null,false
+KY,05952,KY DOC - ROEDERER CORRECTIONAL COMPLEX,null,null,null,null,null,false
+KY,07087,KY DOC - ROSS CASH CENTER FOR WOMEN,null,null,null,null,null,false
+KY,05953,KY DOC - WESTERN KENTUCKY CORRECTIONAL FACILITY FOR MEN,null,null,null,null,null,false
+KY,00824,LETCHER COUNTY JAIL,null,null,null,null,null,false
+KY,00617,LEWIS COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,04293,LEXINGTON FAYETTE URBAN DETENTION,null,null,null,null,null,false
+KY,05842,LOUISVILLE / JEFFERSON COUNTY METRO GOVT - COMMUNITY CORRECTIONAL CENTER,null,null,null,null,null,false
+KY,05463,LOUISVILLE / JEFFERSON COUNTY METRO GOVT - CORRECTIONS,null,null,null,null,null,false
+KY,05843,LOUISVILLE / JEFFERSON COUNTY METRO GOVT - HALL OF JUSTICE,null,null,null,null,null,false
+KY,00565,SCOTT COUNTY DETENTION CENTER,null,null,null,null,null,false
+KY,04414,THREE FORKS REGIONAL JAIL,null,null,null,null,null,false
+KY,00261,WARREN COUNTY REGIONAL JAIL,null,null,null,null,null,false
+KY,05063,WOODFORD COUNTY FISCAL CT,null,null,null,null,null,falseLA,08145,BERWICK CITY POLICE DEPT,null,null,null,null,null,false
+LA,04443,CEDARWOOD MANOR,null,null,null,null,null,false
+LA,07579,CEDARWOOD MANOR WOMEN'S,null,null,null,null,null,false
+LA,09513,EAST CARROLL RIVERBEND PHASE 2,null,null,null,null,null,false
+LA,09513A,EAST CARROLL RIVERBEND PHASE 2-ATTORNEY,null,null,null,null,null,false
+LA,09514,EAST CARROLL RIVERBEND PHASE 3,null,null,null,null,null,false
+LA,07473,EAST CARROLL RIVERBEND PHASE I,null,null,null,null,null,false
+LA,03941,JEFFERSON PARISH (GRETNA),null,null,null,null,null,false
+LA,06119,KENNER POLICE DEPT,null,null,null,null,null,false
+LA,07177,LA DOC - ACADIANA CENTER FOR YOUTH,null,null,null,null,null,false
+LA,09234,LA DOC - ALLEN CORRECTIONAL CENTER (PRIVATE),null,null,null,null,null,false
+LA,09244,LA DOC - BB SIXTY RAYBURN CORRECTIONAL CENTER,null,null,null,null,null,false
+LA,09246,LA DOC - BRIDGE CITY CENTER FOR YOUTH,null,null,null,null,null,false
+LA,09374,LA DOC - COLUMBIA CENTER FOR YOUTH,null,null,null,null,null,false
+LA,09237,LA DOC - DAVID WADE CORRECTIONAL CENTER,null,null,null,null,null,false
+LA,09238,LA DOC - DIXON CORRECTIONAL INSTITUTE,null,null,null,null,null,false
+LA,09239,LA DOC - ELAYN HUNT CORRECTIONAL CENTER,null,null,null,null,null,false
+LA,09247,LA DOC - JETSON CENTER FOR YOUTH,null,null,null,null,null,false
+LA,09277,LA DOC - LSP CAMP C,null,null,null,null,null,false
+LA,09274,LA DOC - LSP CAMP D,null,null,null,null,null,false
+LA,09275,LA DOC - LSP CAMP F DEATH ROW,null,null,null,null,null,false
+LA,09276,LA DOC - LSP CAMP J,null,null,null,null,null,false
+LA,09279,LA DOC - LSP DOG PEN,null,null,null,null,null,false
+LA,09278,LA DOC - LSP MAIN,null,null,null,null,null,false
+LA,09243,LA DOC - LSP RECEPTION CENTER,null,null,null,null,null,false
+LA,09280,LA DOC - LSP TREATMENT UNIT,null,null,null,null,null,false
+LA,09235,LA DOC - RAYMOND LABORDE CORRECTIONAL CENTER,null,null,null,null,null,false
+LA,09249,LA DOC - STATE POLICE BARRACKS,null,null,null,null,null,false
+LA,09248,LA DOC - SWANSON CENTER FOR YOUTH,null,null,null,null,null,false
+LA,00492,MOREHOUSE PARISH ANNEX,null,null,null,null,null,false
+LA,05939,MOREHOUSE PARISH DETENTION CENTER,null,null,null,null,null,false
+LA,03606,MOREHOUSE PARISH JAIL,null,null,null,null,null,false
+LA,06701,NATCHITOCHES PARISH WORK CENTER,null,null,null,null,null,false
+LA,07868,ORLEANS JUSTICE CENTER,null,null,null,null,null,false
+LA,03975,ORLEANS PARISH,null,null,null,null,null,false
+LA,07855,ORLEANS PARISH TEMPORARY DETENTION CENTER,null,null,null,null,null,false
+LA,08053,ORLEANS PARISH WORK RELEASE CENTER,null,null,null,null,null,false
+LA,05586,SHREVEPORT CITY JAIL,null,null,null,null,null,false
+LA,05990,SLIDELL POLICE DEPT,null,null,null,null,null,false
+LA,07139,TERREBONNE PARISH CRIMINAL JUSTICE BLD 2,null,null,null,null,null,false
+LA,09113,TERREBONNE PARISH CRIMINAL JUSTICE COMPLEX,null,null,null,null,null,falseMA,00294,ASH STREET JAIL & REGIONAL LOCK UP,null,null,null,null,null,false
+MA,05494,BARNSTABLE COUNTY CORRECTIONS FACILITY,null,null,null,null,null,false
+MA,04229,BERKSHIRE COUNTY HOUSE OF CORRECTIONS,null,null,null,null,null,false
+MA,00610,BERKSHIRE COUNTY JAIL,null,null,null,null,null,false
+MA,00296,BRISTOL COUNTY FAUNCE CORNER,null,null,null,null,null,false
+MA,03764,DUKES COUNTY JAIL,null,null,null,null,null,false
+MA,05699,ESSEX COUNTY LAWRENCE CORRECTIONAL ALTERNATIVE CENTER,null,null,null,null,null,false
+MA,05672,ESSEX COUNTY MIDDLETON  JAIL & HOC,null,null,null,null,null,false
+MA,05698,ESSEX COUNTY WOMEN IN TRANSIT FACILITY,null,null,null,null,null,false
+MA,06011,FRANKLIN COUNTY JAIL,null,null,null,null,null,false
+MA,25039,MA DOC - BAY STATE CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,28032,MA DOC - BOSTON PRE-RELEASE CENTER,null,null,null,null,null,false
+MA,28020,MA DOC - BRIDGEWATER STATE HOSPITAL,null,null,null,null,null,false
+MA,28011,MA DOC - LEMUEL SHATTUCK HOSPITAL CORRECTIONAL UNIT,null,null,null,null,null,false
+MA,05583,MA DOC - MASAC CIVIL COMMITS,null,null,null,null,null,false
+MA,28022,MA DOC - MASS ALCOHOL & SUBSTANCE ABUSE CENTER,null,null,null,null,null,false
+MA,28026,MA DOC - MASSACHUSETTS TREATMENT CENTER,null,null,null,null,null,false
+MA,28014,MA DOC - MCI CEDAR JUNCTION,null,null,null,null,null,false
+MA,28007,MA DOC - MCI CONCORD,null,null,null,null,null,false
+MA,28009,MA DOC - MCI FRAMINGHAM,null,null,null,null,null,false
+MA,28008,MA DOC - MCI NORFOLK,null,null,null,null,null,false
+MA,28012,MA DOC - MCI SHIRLEY,null,null,null,null,null,false
+MA,28010,MA DOC - NORTH CENTRAL CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+MA,28015,MA DOC - NORTHEASTERN CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,28019,MA DOC - OLD COLONY CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,28017,MA DOC - PONDVILLE CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,28016,MA DOC - SOUTH MIDDLESEX CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,28028,MA DOC - SOUZA-BARANOWSKI CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,00676,MIDDLESEX BILLERICA HOC,null,null,null,null,null,false
+MA,04174,NORFOLK COUNTY CORRECTIONAL CENTER,null,null,null,null,null,false
+MA,28003,PLYMOUTH COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+MA,04640,SUFFOLK COUNTY HOUSE OF CORRECTIONS,null,null,null,null,null,false
+MA,04639,SUFFOLK COUNTY JAIL,null,null,null,null,null,false
+MA,28030,WORCESTER COUNTY JAIL,null,null,null,null,null,falseMD,30018,CECIL COUNTY DETENTION CENTER,null,null,null,null,null,false
+MD,30001,DORCHESTER COUNTY DETENTION CENTER,null,null,null,null,null,false
+MD,30013,QUEEN ANNE'S COUNTY DETENTION CENTER,null,null,null,null,null,false
+MD,04331,SOMERSET COUNTY DETENTION CENTER,null,null,null,null,null,false
+MD,30017,TALBOT COUNTY DETENTION CENTER,null,null,null,null,null,false
+MD,30022,WORCESTER COUNTY DETENTION CENTER,null,null,null,null,null,falseME,06924,ANDROSCOGGIN COUNTY JAIL,null,null,null,null,null,false
+ME,07067,AROOSTOOK COUNTY JAIL,null,null,null,null,null,false
+ME,07753,CUMBERLAND COUNTY JAIL,null,null,null,null,null,false
+ME,29014,FRANKLIN COUNTY JAIL,null,null,null,null,null,false
+ME,29025,HANCOCK COUNTY JAIL,null,null,null,null,null,false
+ME,08039,KENNEBEC COUNTY JAIL,null,null,null,null,null,false
+ME,09013,KNOX COUNTY JAIL,null,null,null,null,null,false
+ME,29026,OXFORD COUNTY JAIL,null,null,null,null,null,false
+ME,29021,PENOBSCOT COUNTY JAIL,null,null,null,null,null,false
+ME,29018,PISCATAQUIS COUNTY JAIL,null,null,null,null,null,false
+ME,03065,SOMERSET COUNTY JAIL,null,null,null,null,null,false
+ME,29031,WALDO COUNTY JAIL,null,null,null,null,null,false
+ME,29020,WASHINGTON COUNTY JAIL,null,null,null,null,null,false
+ME,29032,YORK COUNTY JAIL,null,null,null,null,null,falseMI,05780,ALCONA COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,04162,ALGER COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,00315,ANTRIM COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+MI,06302,ARENAC COUNTY JAIL,null,null,null,null,null,false
+MI,04227,BAY COUNTY LAW ENFORCEMENT CENTER,null,null,null,null,null,false
+MI,06130,BENZIE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,08213,BRANCH COUNTY JAIL,null,null,null,null,null,false
+MI,31031,CHIPPEWA COUNTY JAIL,null,null,null,null,null,false
+MI,07337,CLARE COUNTY JAIL,null,null,null,null,null,false
+MI,31046,CLINTON COUNTY JAIL,null,null,null,null,null,false
+MI,07137,DELTA COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+MI,03055,DELTA COUNTY JAIL,null,null,null,null,null,false
+MI,00466,DETROIT MADISON CENTER,null,null,null,null,null,false
+MI,31047,DICKINSON COUNTY JAIL,null,null,null,null,null,false
+MI,05203,EATON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,05203A,EATON COUNTY SHERIFF'S DEPT - ATTORNEY,null,null,null,null,null,false
+MI,04415,EMMET COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,06830,FLINT POLICE DEPT,null,null,null,null,null,false
+MI,05881,GLADWIN COUNTY JAIL,null,null,null,null,null,false
+MI,05156,GOGEBIC COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,03080,GRAND TRAVERSE COUNTY,null,null,null,null,null,false
+MI,03080A,GRAND TRAVERSE COUNTY-ATTORNEY,null,null,null,null,null,false
+MI,31051,GRATIOT COUNTY JAIL,null,null,null,null,null,false
+MI,00205,GROSSE POINTE PARK CITY,null,null,null,null,null,false
+MI,06319,HOLLAND POLICE DEPT,null,null,null,null,null,false
+MI,04654,HOUGHTON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,04655,HOUGHTON COUNTY WORK RELEASE,null,null,null,null,null,false
+MI,06603,INGHAM COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+MI,06061,IOSCO COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,05872,IRON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MI,06137,ISABELLA COUNTY JAIL,null,null,null,null,null,false
+MI,06401,JACKSON COUNTY CHANTER ROAD FACILITY,null,null,null,null,null,false
+MI,06386,JACKSON COUNTY JAIL,null,null,null,null,null,false
+MI,06065,LANSING POLICE DEPT,null,null,null,null,null,false
+MI,05720,LAPEER COUNTY COURTHOUSE,null,null,null,null,null,false
+MI,05682,LAPEER COUNTY JAIL,null,null,null,null,null,false
+MI,06656,MARQUETTE COUNTY COMMUNITY CORRECTIONS DETENTION CENTER,null,null,null,null,null,false
+MI,04263,MARQUETTE SHERIFF'S DEPT,null,null,null,null,null,false
+MI,06695,MENOMINEE COUNTY JAIL,null,null,null,null,null,false
+MI,06677,MIDLAND COUNTY JAIL,null,null,null,null,null,false
+MI,08214,MISSAUKEE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+MI,00344,MONTCALM SHERIFF'S DEPT,null,null,null,null,null,false
+MI,31075,MUSKEGON COUNTY JAIL,null,null,null,null,null,false
+MI,05796,NEWAYGO COUNTY JAIL,null,null,null,null,null,false
+MI,08105,NILES LAW ENFORCEMENT COMPLEX,null,null,null,null,null,false
+MI,08215,OCEANA COUNTY JAIL,null,null,null,null,null,false
+MI,06125,OGEMAW COUNTY JAIL,null,null,null,null,null,false
+MI,08216,ONTONAGON COUNTY JAIL,null,null,null,null,null,false
+MI,08217,OTSEGO COUNTY JAIL,null,null,null,null,null,false
+MI,31080,OTTAWA COUNTY JAIL,null,null,null,null,null,false
+MI,00350,PRESQUE ISLE COUNTY JAIL,null,null,null,null,null,false
+MI,31010,SANILAC COUNTY JAIL,null,null,null,null,null,false
+MI,08219,SCHOOLCRAFT COUNTY JAIL,null,null,null,null,null,false
+MI,06351,ST CLAIR COUNTY JAIL,null,null,null,null,null,false
+MI,08467,ST JOSEPH COUNTY JAIL,null,null,null,null,null,false
+MI,06351A,ST. CLAIR COUNTY JAIL ATTORNEY VISITATION, MI,null,null,null,null,null,false
+MI,06352,VAN BUREN COUNTY JAIL,null,null,null,null,null,false
+MI,05551,WASHTENAW COUNTY SHERIFFS DEPT,null,null,null,null,null,false
+MI,07602,WEXFORD COUNTY SHERIFF'S OFFICE AND JAIL,null,null,null,null,null,falseMN,08247,BROOKLYN PARK POLICE DEPT,null,null,null,null,null,false
+MN,08784,CARVER COUNTY JAIL,null,null,null,null,null,false
+MN,08768,DAKOTA COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MN,08789,GOODHUE SHERFF'S DEPT,null,null,null,null,null,false
+MN,32002,HENNEPIN COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+MN,06750,HENNEPIN COUNTY ADULT DETENTION CENTER - WORK CENTER,null,null,null,null,null,false
+MN,07802,KANDIYOHI COUNTY JAIL,null,null,null,null,null,false
+MN,08793,MCLEOD COUNTY JAIL,null,null,null,null,null,false
+MN,06718,NORTHWEST REGIONAL CORRECTIONS CENTER,null,null,null,null,null,false
+MN,05193C,RAMSEY COUNTY CONTACT VISITOR CENTER,null,null,null,null,null,false
+MN,05193,RAMSEY COUNTY LAW ENFORCEMENT CENTER,null,null,null,null,null,false
+MN,04860,RICE COUNTY JAIL,null,null,null,null,null,false
+MN,06414,RICE COUNTY JAIL ANNEX,null,null,null,null,null,false
+MN,05779,SCOTT COUNTY JAIL,null,null,null,null,null,false
+MN,08767,SHERBURNE COUNTY JAIL,null,null,null,null,null,false
+MN,08121,SIBLEY COUNTY  JAIL,null,null,null,null,null,false
+MN,04124,WASHINGTON COUNTY JAIL,null,null,null,null,null,falseMO,04931,ARNOLD CITY JAIL,null,null,null,null,null,false
+MO,08335,AURORA CITY POLICE DEPT,null,null,null,null,null,false
+MO,07390,BERKELEY CITY POLICE DEPT (NEW),null,null,null,null,null,false
+MO,08240,BLUE SPRINGS POLICE DEPT,null,null,null,null,null,false
+MO,01219,BUCHANAN COUNTY JAIL,null,null,null,null,null,false
+MO,08305,CAPE GIRARDEAU COUNTY JAIL,null,null,null,null,null,false
+MO,07957,CAPE GIRARDEAU POLICE DEPT - MARIA LOUISA,null,null,null,null,null,false
+MO,08346,COLE COUNTY JAIL,null,null,null,null,null,false
+MO,00266,FESTUS CITY POLICE DEPT,null,null,null,null,null,false
+MO,07132,JACKSON COUNTY DETENTION CENTER,null,null,null,null,null,false
+MO,04283,JACKSON COUNTY REGIONAL CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,08523,LACLEDE COUNTY SHERIFF'S DEPT JAIL,null,null,null,null,null,false
+MO,08270,LEE'S SUMMIT CITY POLICE DEPT,null,null,null,null,null,false
+MO,09050,MO DOC - ALGOA CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09051,MO DOC - BOONVILLE CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09052,MO DOC - CHILLICOTHE CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09053,MO DOC - CREMER THERAPEUTIC COMMUNITY CENTER,null,null,null,null,null,false
+MO,09055,MO DOC - EASTERN RECEPTION DIAGNOSTIC & CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09056,MO DOC - FARMINGTON CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09057,MO DOC - FULTON RECEPTION & DIAGNOSTIC CENTER,null,null,null,null,null,false
+MO,09058,MO DOC - JEFFERSON CITY CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09071,MO DOC - KANSAS CITY COMMUNITY RELEASE CENTER,null,null,null,null,null,false
+MO,09059,MO DOC - MARYVILLE TREATMENT CENTER,null,null,null,null,null,false
+MO,09060,MO DOC - MISSOURI EASTERN CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09061,MO DOC - MOBERLY CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09062,MO DOC - NORTHEAST CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09063,MO DOC - OZARK CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09064,MO DOC - POTOSI CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09065,MO DOC - SOUTH CENTRAL CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09066,MO DOC - SOUTHEAST CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09067,MO DOC - TIPTON CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09068,MO DOC - WESTERN MISSOURI CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09069,MO DOC - WESTERN RECEPTION DIAGNOSTIC & CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,09070,MO DOC - WOMENS EASTERN RECEPTION DIAGNOSTIC & CORRECTIONAL CENTER,null,null,null,null,null,false
+MO,06349,MONETT CITY POLICE DEPT,null,null,null,null,null,false
+MO,08502,MONITEAU COUNTY JAIL,null,null,null,null,null,false
+MO,08125,OVERLAND CITY POLICE DEPT,null,null,null,null,null,false
+MO,09444,SCOTT CITY POLICE DEPT,null,null,null,null,null,false
+MO,01221,SIKESTON DEPT OF PUBLIC SAFETY,null,null,null,null,null,false
+MO,08490,ST FRANCOIS COUNTY JAIL,null,null,null,null,null,false
+MO,06719,ST PETERS POLICE DEPT,null,null,null,null,null,false
+MO,08752,WRIGHT COUNTY JAIL,null,null,null,null,null,falseMS,06305,CHICKASAW COUNTY JAIL,null,null,null,null,null,false
+MS,09117,CHICKASAW COUNTY REGIONAL CORRECTIONAL FACILITY,null,null,null,null,null,false
+MS,04258,COPIAH COUNTY DETENTION CENTER,null,null,null,null,null,false
+MS,08899,DESOTO COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+MS,01440,HANCOCK COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+MS,03067,HINDS COUNTY DETENTION FACILITY - JACKSON,null,null,null,null,null,false
+MS,03290,HINDS COUNTY DETENTION FACILITY - RAYMOND,null,null,null,null,null,false
+MS,06617,HINDS COUNTY PENAL FARM,null,null,null,null,null,false
+MS,01459,HUMPHREYS COUNTY JAIL,null,null,null,null,null,false
+MS,01479,JACKSON COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+MS,02131,JONES COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+MS,08088,LAFAYETTE COUNTY DETENTION CENTER,null,null,null,null,null,false
+MS,03090,LAUDERDALE COUNTY DETENTION FACILITY,null,null,null,null,null,false
+MS,07106,LEAKE COUNTY CORRECTIONAL FACILITY - COUNTY,null,null,null,null,null,false
+MS,08865,LEAKE COUNTY CORRECTIONAL FACILITY - STATE,null,null,null,null,null,false
+MS,01509,LEFLORE COUNTY JAIL,null,null,null,null,null,false
+MS,01867,LOWNDES COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+MS,04700,LOWNDES COUNTY COURTHOUSE HOLDING CELL,null,null,null,null,null,false
+MS,01525,MADISON COUNTY DETENTION CENTER,null,null,null,null,null,false
+MS,80254,NESHOBA COUNTY DETENTION CENTER,null,null,null,null,null,false
+MS,05816,OKTIBBEHA COUNTY JAIL,null,null,null,null,null,false
+MS,06714,OKTIBBEHA COUNTY JAIL-TRUSTEE FACILITY,null,null,null,null,null,false
+MS,01576,PANOLA COUNTY DETENTION CENTER,null,null,null,null,null,false
+MS,01590,PICAYUNE CITY JAIL,null,null,null,null,null,false
+MS,02126,PRENTISS COUNTY JAIL,null,null,null,null,null,false
+MS,01620,SCOTT COUNTY JAIL,null,null,null,null,null,false
+MS,06707,TATE COUNTY JAIL- JSI,null,null,null,null,null,false
+MS,04261,TIPPAH COUNTY JAIL - JSI,null,null,null,null,null,false
+MS,04407,TUNICA COUNTY SHERIFF'S DEPT - JSI,null,null,null,null,null,false
+MS,03277,UNION COUNTY JAIL,null,null,null,null,null,false
+MS,01732,WAYNE COUNTY JAIL,null,null,null,null,null,false
+MS,01734,WEBSTER COUNTY  JAIL,null,null,null,null,null,false
+MS,07832,WINSTON - CHOCTAW REGIONAL CORRECTIONAL FACILITY,null,null,null,null,null,false
+MS,00552,WINSTON - CHOCTAW STATE,null,null,null,null,null,false
+MS,01743,YALOBUSHA COUNTY JAIL,null,null,null,null,null,falseMT,06838,ANACONDA POLICE DEPT,null,null,null,null,null,false
+MT,04560,BEAVERHEAD COUNTY JAIL,null,null,null,null,null,false
+MT,00603,BUTTE SILVERBOW COUNTY JAIL,null,null,null,null,null,false
+MT,05172,CASCADE COUNTY,null,null,null,null,null,false
+MT,00844,CASCADE COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+MT,08091,CCCS-WATCH EAST TREATMENT CENTER- (HLS),null,null,null,null,null,false
+MT,09230,CHIPPEWA CREE TRIBAL JUSTICE CENTER,null,null,null,null,null,false
+MT,03879,CHOUTEAU COUNTY DETENTION CENTER,null,null,null,null,null,false
+MT,00652,CUSTER COUNTY JAIL,null,null,null,null,null,false
+MT,00493,FALLON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MT,04296,FERGUS COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MT,00478,FLATHEAD COUNTY JAIL,null,null,null,null,null,false
+MT,00551,HILL COUNTY DETENTION FACILITY,null,null,null,null,null,false
+MT,04458,LAKE COUNTY DETENTION FACILITY,null,null,null,null,null,false
+MT,00564,LINCOLN COUNTY JAIL,null,null,null,null,null,false
+MT,00163,MUSSELSHELL COUNTY JAIL,null,null,null,null,null,false
+MT,00485,PONDERA COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MT,00480,POWELL COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MT,00477,RAVALLI COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MT,03046,RICHLAND COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+MT,00549,SANDERS COUNTY JAIL,null,null,null,null,null,false
+MT,00166,TOOLE COUNTY JAIL,null,null,null,null,null,falseNC,06681,ALBEMARLE DISTRICT JAIL,null,null,null,null,null,false
+NC,01806,ANSON COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+NC,01807,AVERY COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+NC,06776,BLADEN COUNTY LAW ENFORCEMENT CENTER,null,null,null,null,null,false
+NC,05647,BRUNSWICK COUNTY JAIL,null,null,null,null,null,false
+NC,06342,CHOWAN COUNTY DETENTION FACILITY,null,null,null,null,null,false
+NC,04990,CLEVELAND COUNTY DETENTION FACILITY,null,null,null,null,null,false
+NC,04991,CLEVELAND COUNTY JAIL ANNEX,null,null,null,null,null,false
+NC,06856,CRAVEN COUNTY JAIL,null,null,null,null,null,false
+NC,07302,DARE COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,00692,FRANKLIN COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,04748,HOKE COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,05606,IREDELL COUNTY ANNEX,null,null,null,null,null,false
+NC,04609,IREDELL COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,00351,JOHNSTON COUNTY JAIL,null,null,null,null,null,false
+NC,01826,MADISON COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,06356,MONTGOMERY COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+NC,05385,NEW HANOVER COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,01832,ONSLOW COUNTY JAIL,null,null,null,null,null,false
+NC,06947,PAMLICO COUNTY DETENTION FACILITY,null,null,null,null,null,false
+NC,08974,PENDER COUNTY JAIL,null,null,null,null,null,false
+NC,07891,RICHMOND COUNTY JAIL,null,null,null,null,null,false
+NC,04362,ROWAN COUNTY DETENTION CENTER,null,null,null,null,null,false
+NC,09264,ROWAN COUNTY DETENTION CENTER ANNEX,null,null,null,null,null,false
+NC,04531,RUTHERFORD COUNTY DETENTION CENTER,null,null,null,null,null,falseND,07285,CASS COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+ND,05799,DAKOTA WOMEN'S CORRECTIONAL AND REHABILITATION CENTER,null,null,null,null,null,false
+ND,05896,HEART OF AMERICA CORRECTIONAL & TREATMENT CENTER,null,null,null,null,null,false
+ND,05127,ND DOC - JAMES RIVER CORRECTIONAL CENTER,null,null,null,null,null,false
+ND,07129,ND DOC - JAMES RIVER MINIMUM UNIT,null,null,null,null,null,false
+ND,05128,ND DOC - MISSOURI RIVER CORRECTIONAL CENTER,null,null,null,null,null,false
+ND,06124,ND DOC - NORTH DAKOTA STATE HOSPITAL,null,null,null,null,null,false
+ND,05126,ND DOC - NORTH DAKOTA STATE PENITENTIARY,null,null,null,null,null,falseNE,08601,ADAMS COUNTY JAIL,null,null,null,null,null,false
+NE,06338,HALL COUNTY DOC,null,null,null,null,null,false
+NE,08676,KIMBALL COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+NE,06392,SAUNDERS COUNTY JAIL,null,null,null,null,null,false
+NE,08747,WASHINGTON COUNTY JAIL,null,null,null,null,null,falseNH,37004,BELKNAP COUNTY HOC,null,null,null,null,null,false
+NH,37009,CARROLL COUNTY DOC,null,null,null,null,null,false
+NH,07196,CHESHIRE COUNTY DOC,null,null,null,null,null,false
+NH,07738,COOS COUNTY HOUSE OF CORRECTIONS,null,null,null,null,null,false
+NH,37011,MERRIMACK COUNTY DOC,null,null,null,null,null,false
+NH,06851,ROCKINGHAM COUNTY DOC,null,null,null,null,null,false
+NH,07086,SULLIVAN COUNTY DOC,null,null,null,null,null,falseNJ,06909,CAPE MAY COUNTY CORRECTIONAL CENTER (NEW),null,null,null,null,null,false
+NJ,06909A,CAPE MAY COUNTY CORRECTIONAL CENTER ATTORNEY, NJ,null,null,null,null,null,falseNM,04536,CHAVES COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+NM,07314,CURRY COUNTY DETENTION CENTER,null,null,null,null,null,false
+NM,39028,EDDY COUNTY ADULT DETENTION,null,null,null,null,null,false
+NM,39029,EDDY COUNTY ADULT DETENTION,null,null,null,null,null,false
+NM,01211,GEO - NM DOC - LEA HOBBS COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+NM,04125,GEO - NM DOC- GUADALUPE COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+NM,05515,HIDALGO COUNTY DETENTION CENTER,null,null,null,null,null,false
+NM,00370,HOBBS POLICE DEPT CITY JAIL,null,null,null,null,null,false
+NM,05767,LEA COUNTY DETENTION CENTER - JSI,null,null,null,null,null,false
+NM,06797,LEA COUNTY JUVENILE DETENTION,null,null,null,null,null,false
+NM,08001,LOS ALAMOS POLICE DEPT DETENTION FACILITY,null,null,null,null,null,false
+NM,77122,LUNA COUNTY DETENTION FACILITY,null,null,null,null,null,false
+NM,04064,NM DOC - CENTRAL NEW MEXICO CORRECTIONAL FACILITY,null,null,null,null,null,false
+NM,04013,NM DOC - NORTHEAST NEW MEXICO DETENTION FACILITY,null,null,null,null,null,false
+NM,04063,NM DOC - PENITENTIARY OF NEW MEXICO,null,null,null,null,null,false
+NM,04061,NM DOC - ROSWELL CORRECTIONAL CENTER,null,null,null,null,null,false
+NM,04062,NM DOC - SOUTH NEW MEXICO CORRECTIONAL FACILITY COMPLEX,null,null,null,null,null,false
+NM,06058,NM DOC - SPRINGER DETENTION CENTER,null,null,null,null,null,false
+NM,04060,NM DOC - WESTERN NEW MEXICO CORRECTIONAL FACILITY,null,null,null,null,null,false
+NM,39023,OTERO COUNTY JAIL,null,null,null,null,null,false
+NM,39024,QUAY COUNTY DETENTION CENTER,null,null,null,null,null,false
+NM,04307,RIO ARRIBA COUNTY DETENTION FACILITY - JSI,null,null,null,null,null,false
+NM,39031,ROOSEVELT COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+NM,05095,SAN MIGUEL COUNTY DETENTION CENTER,null,null,null,null,null,false
+NM,39013,SANDOVAL COUNTY DETENTION CENTER - JSI,null,null,null,null,null,false
+NM,06310,SANTA FE COUNTY ADULT DETENTION FACILITY,null,null,null,null,null,false
+NM,08861,TAOS COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+NM,39014,VIGIL MALDONADO DETENTION CENTER,null,null,null,null,null,falseNV,10157,CLARK COUNTY DETENTION CENTER,null,null,null,null,null,false
+NV,06717,CLARK COUNTY DETENTION CENTER NORTH VALLEY COMPLEX,null,null,null,null,null,false
+NV,07400,CLARK COUNTY TUCKER HOLDING FACILITY,null,null,null,null,null,false
+NV,06665,DOUGLAS COUNTY - LAKE TAHOE JAIL,null,null,null,null,null,false
+NV,05075,DOUGLAS COUNTY - MINDEN JAIL,null,null,null,null,null,false
+NV,04095,HENDERSON DETENTION CENTER,null,null,null,null,null,false
+NV,00841,HUMBOLDT COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+NV,04181,LAS VEGAS CITY CORRECTIONAL CENTER CLARK,null,null,null,null,null,false
+NV,06006,LINCOLN COUNTY JAIL,null,null,null,null,null,false
+NV,06372,LYON COUNTY JAIL,null,null,null,null,null,false
+NV,08220,MESQUITE CITY POLICE DEPT,null,null,null,null,null,false
+NV,00168,MINERAL COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+NV,08548,NORTH LAS VEGAS POLICE DEPT,null,null,null,null,null,false
+NV,00195,NV DOC - CARLIN CONSERVATION CAMP,null,null,null,null,null,false
+NV,00792,NV DOC - CASA GRANDE TRANSITIONAL CENTER,null,null,null,null,null,false
+NV,03649,NV DOC - ELY CONSERVATION CAMP,null,null,null,null,null,false
+NV,02322,NV DOC - ELY STATE PRISON,null,null,null,null,null,false
+NV,02324,NV DOC - FLORENCE MCCLURE WOMENS CORRECTIONAL CENTER,null,null,null,null,null,false
+NV,02325,NV DOC - HIGH DESERT STATE PRISON,null,null,null,null,null,false
+NV,04335,NV DOC - HUMBOLDT CONSERVATION CAMP,null,null,null,null,null,false
+NV,05416,NV DOC - JEAN CONSERVATION CAMP,null,null,null,null,null,false
+NV,02341,NV DOC - LOVELOCK CORRECTIONAL CENTER,null,null,null,null,null,false
+NV,02342,NV DOC - NORTHERN NEVADA CORRECTIONAL CENTER,null,null,null,null,null,false
+NV,05582,NV DOC - NORTHERN NEVADA TRANSITIONAL HOUSING,null,null,null,null,null,false
+NV,05419,NV DOC - PIOCHE CONSERVATION CAMP,null,null,null,null,null,false
+NV,01940,NV DOC - SOUTHERN DESERT CORRECTIONAL CENTER,null,null,null,null,null,false
+NV,05483,NV DOC - STEWART CONSERVATION CAMP,null,null,null,null,null,false
+NV,05573,NV DOC - THREE LAKES VALLEY CONSERVATION AND BOOT CAMP,null,null,null,null,null,false
+NV,05574,NV DOC - TONOPAH CONSERVATION CAMP,null,null,null,null,null,false
+NV,03566,NV DOC - WARM SPRINGS CORRECTIONAL CENTER,null,null,null,null,null,false
+NV,05654,NV DOC - WELL CONSERVATION CAMP,null,null,null,null,null,false
+NV,00810,WHITE PINE COUNTY JAIL,null,null,null,null,null,falseNY,41001,ALBANY COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,41001A,ALBANY COUNTY CORRECTIONAL FACILITY-ATTORNEY,null,null,null,null,null,false
+NY,07630,ESSEX COUNTY JAIL,null,null,null,null,null,false
+NY,07256,GENESEE COUNTY JAIL,null,null,null,null,null,false
+NY,41043,LIVINGSTON COUNTY JAIL,null,null,null,null,null,false
+NY,04292,MONROE CO. CORR. FAC.,null,null,null,null,null,false
+NY,06892,MONROE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+NY,09315,NY DOC - ADIRONDACK CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07796,NY DOC - ALBION CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07731,NY DOC - ALTONA CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07736,NY DOC - ATTICA CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07746,NY DOC - AUBURN CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07755,NY DOC - BARE HILL CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07788,NY DOC - BEDFORD HILLS CORRECITONAL FACILITY,null,null,null,null,null,false
+NY,07805,NY DOC - CAPE VINCENT CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07826,NY DOC - CAYUGA CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07454,NY DOC - CLINTON CORRECTIONAL ANNEX,null,null,null,null,null,false
+NY,07839,NY DOC - CLINTON CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07852,NY DOC - COLLINS CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07858,NY DOC - COXSACKIE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07875,NY DOC - DOWNSTATE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07916,NY DOC - EASTERN NEW YORK CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07919,NY DOC - EDGECOMBE RESIDENTIAL TREATMENT FACILITY,null,null,null,null,null,false
+NY,07928,NY DOC - ELMIRA CORRECTIONAL FACILITY AND RECEPTION CENTER,null,null,null,null,null,false
+NY,07937,NY DOC - FISHKILL CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07941,NY DOC - FIVE POINTS CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07948,NY DOC - FRANKLIN CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07959,NY DOC - GOUVERNEUR CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07965,NY DOC - GOWANDA CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07966,NY DOC - GREAT MEADOW CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07979,NY DOC - GREEN HAVEN CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07982,NY DOC - GREENE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06391,NY DOC - GROVELAND CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07207,NY DOC - HALE CREEK CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06738,NY DOC - HUDSON CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06772,NY DOC - LAKEVIEW SHOCK INCARCERATION CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06803,NY DOC - MARCY CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06810,NY DOC - MID STATE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06823,NY DOC - MOHAWK CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06878,NY DOC - MORIAH SHOCK INCARCERATION CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06888,NY DOC - OGDENSBURG CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07669,NY DOC - ORLEANS CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06942,NY DOC - OTISVILLE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06944,NY DOC - QUEENSBORO CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06945,NY DOC - RIVERVIEW CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06989,NY DOC - ROCHESTER CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,06996,NY DOC - SHAWANGUNK CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07007,NY DOC - SING SING CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,09167,NY DOC - SONYEA YOUTH FACILITY,null,null,null,null,null,false
+NY,07525,NY DOC - SOUTHPORT CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07057,NY DOC - SULLIVAN CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07060,NY DOC - TACONIC CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07070,NY DOC - ULSTER CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07080,NY DOC - UPSTATE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07098,NY DOC - WALLKILL CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07101,NY DOC - WASHINGTON CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07116,NY DOC - WATERTOWN CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07121,NY DOC - WENDE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07143,NY DOC - WILLARD DRUG TREATMENT CAMPUS,null,null,null,null,null,false
+NY,07184,NY DOC - WOODBOURNE CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07209,NY DOC - WYOMING CORRECTIONAL FACILITY,null,null,null,null,null,false
+NY,07869,ONTARIO COUNTY JAIL,null,null,null,null,null,false
+NY,07438,ROCKLAND COUNTY JAIL,null,null,null,null,null,false
+NY,06704,SUFFOLK COUNTY JAIL,null,null,null,null,null,false
+NY,06705,SUFFOLK COUNTY JAIL / YAPHANK,null,null,null,null,null,false
+NY,06715,SUFFOLK COUNTY JAIL BOOKING,null,null,null,null,null,false
+NY,41049,SULLIVAN COUNTY JAIL,null,null,null,null,null,false
+NY,06007,ULSTER COUNTY JAIL,null,null,null,null,null,false
+NY,07142,WESTCHESTER COUNTY DOC,null,null,null,null,null,falseOH,08281,ALLEN COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OH,08910,ASHTABULA CITY POLICE DEPT,null,null,null,null,null,false
+OH,08280,ASHTABULA COUNTY JAIL,null,null,null,null,null,false
+OH,00181,BEDFORD HEIGHTS CITY POLICE DEPT,null,null,null,null,null,false
+OH,06294,BEDFORD POLICE DEPT,null,null,null,null,null,false
+OH,06127,BROADVIEW HEIGHTS POLICE DEPT,null,null,null,null,null,false
+OH,08283,CARROLL COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OH,04622,CLARK COUNTY JAIL,null,null,null,null,null,false
+OH,04623,CLARK COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+OH,04278,CLINTON COUNTY ADULT DETENTION,null,null,null,null,null,false
+OH,00909,COLUMBIANA COUNTY JAIL,null,null,null,null,null,false
+OH,08290,COLUMBIANA MINIMUM SECURITY NAC,null,null,null,null,null,false
+OH,42039,CUYAHOGA COUNTY JUSTICE CENTER,null,null,null,null,null,false
+OH,02407,CUYAHOGA COUNTY JUVENILE DETENTION,null,null,null,null,null,false
+OH,08224,DARKE COUNTY JAIL,null,null,null,null,null,false
+OH,08312,EASTERN OHIO CORRECTIONAL CENTER,null,null,null,null,null,false
+OH,04171,EASTERN OHIO CORRECTIONAL CENTER ANNEX,null,null,null,null,null,false
+OH,00303,ERIE COUNTY JAIL,null,null,null,null,null,false
+OH,00080,FAIRBORN CITY POLICE DEPT,null,null,null,null,null,false
+OH,08313,FAYETTE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OH,08317,GUERNSEY COUNTY JAIL,null,null,null,null,null,false
+OH,42002,HAMILTON COUNTY JUSTICE CENTER,null,null,null,null,null,false
+OH,42004,HAMILTON COUNTY YOUTH CENTER,null,null,null,null,null,false
+OH,04535,HANCOCK COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OH,00079,HOLMES COUNTY JAIL,null,null,null,null,null,false
+OH,04653,KNOX COUNTY JAIL,null,null,null,null,null,false
+OH,00302,LAWRENCE COUNTY JAIL,null,null,null,null,null,false
+OH,06325,LORAIN POLICE DEPT,null,null,null,null,null,false
+OH,07654,MAHONING COUNTY JUSTICE CENTER,null,null,null,null,null,false
+OH,42021,MAHONING COUNTY JUVENILE JUSTICE CENTER,null,null,null,null,null,false
+OH,06051,MAPLE HEIGHTS POLICE DEPT,null,null,null,null,null,false
+OH,00609,MEDINA COUNTY JAIL,null,null,null,null,null,false
+OH,04026,MEDINA COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+OH,05671,MEIGS COUNTY JAIL,null,null,null,null,null,false
+OH,03806,MIAMI COUNTY INCARCERATION FACILITY,null,null,null,null,null,false
+OH,08285,MIAMI COUNTY JAIL,null,null,null,null,null,false
+OH,00012,MIDDLEPORT CITY JAIL,null,null,null,null,null,false
+OH,03644,MULTI-COUNTY CORRECTIONAL CENTER,null,null,null,null,null,false
+OH,05255,MULTI-COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+OH,07388,NOBLE COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OH,08503,NORTH CENTRAL OHIO REHABILITATION,null,null,null,null,null,false
+OH,03903,NORTH ROYALTON CITY POLICE DEPT,null,null,null,null,null,false
+OH,04069,NORTHWEST OHIO JUVENILE DETENTION CENTER,null,null,null,null,null,false
+OH,05732,OTTAWA COUNTY DETENTION FACILITY,null,null,null,null,null,false
+OH,05735,OTTAWA COUNTY MINIMUM SECURITY,null,null,null,null,null,false
+OH,06231,PARMA POLICE DEPT,null,null,null,null,null,false
+OH,06017,PAULDING COUNTY JAIL,null,null,null,null,null,false
+OH,00052,PICKAWAY COUNTY JAIL,null,null,null,null,null,false
+OH,05770,RICHLAND COUNTY COMMUNITY ALTERNATIVE CENTER,null,null,null,null,null,false
+OH,06358,RICHLAND COUNTY JAIL,null,null,null,null,null,false
+OH,08449,SHELBY COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OH,00687,SOUTHEAST OHIO REGIONAL JAIL,null,null,null,null,null,false
+OH,09321,STRONGSVILLE POLICE DEPT,null,null,null,null,null,false
+OH,42003,TALBERT HOUSE TREATMENT FACILITY,null,null,null,null,null,false
+OH,05827,TRI COUNTY REGIONAL JAIL,null,null,null,null,null,false
+OH,08916,VAN WERT COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+OH,00286,WAYNE COUNTY JAIL,null,null,null,null,null,false
+OH,08485,WESTERN OH REGIONAL TREATMENT,null,null,null,null,null,false
+OH,05904,WOOD COUNTY JAIL,null,null,null,null,null,false
+OH,42034,WOODBURN AVENUE TREATMENT FACILITY,null,null,null,null,null,false
+OH,04607,WYANDOT COUNTY SHERIFFS OFFICE,null,null,null,null,null,falseOK,05994,CHEROKEE COUNTY JAIL,null,null,null,null,null,false
+OK,43061,DAVIS CCA,null,null,null,null,null,false
+OK,08912,DEL CITY POLICE DEPT,null,null,null,null,null,false
+OK,08461,GARVIN COUNTY JAIL,null,null,null,null,null,false
+OK,43091,OK DOC - CHARLES E "BILL" JOHNSON CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43039,OK DOC - CLARA WATERS COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+OK,01247,OK DOC - DICK CONNER CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43036,OK DOC - DR EDDIE WARRIOR CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43023,OK DOC - ENID COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+OK,43021,OK DOC - HOWARD MCLEOD CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43022,OK DOC - JACKIE BRANNON CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43104,OK DOC - JAMES CRABTREE CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43037,OK DOC - JESS DUNN CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,09043,OK DOC - JIM E HAMILTON CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43058,OK DOC - JOHN LILLEY CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43102,OK DOC - JOSEPH HARP CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43040,OK DOC - KATE BARNARD COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+OK,43046,OK DOC - LAWTON COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+OK,43103,OK DOC - LEXINGTON ASSESSMENT & RECEPTION CENTER,null,null,null,null,null,false
+OK,43106,OK DOC - MABEL BASSETT CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43071,OK DOC - MACK ALFORD CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,01248,OK DOC - NORTH FORK CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43056,OK DOC - NORTHEAST OKLAHOMA CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,43041,OK DOC - OKLAHOMA CITY COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+OK,43008,OK DOC - OKLAHOMA STATE PENITENTIARY,null,null,null,null,null,false
+OK,01249,OK DOC - OKLAHOMA STATE REFORMATORY,null,null,null,null,null,false
+OK,43093,OK DOC - UNION CITY COMMUNITY CORRECTIONS CENTER,null,null,null,null,null,false
+OK,43063,OK DOC - WILLIAM S KEY CORRECTIONAL CENTER,null,null,null,null,null,false
+OK,05038,TEXAS COUNTY JAIL,null,null,null,null,null,false
+OK,04778,WAGONER COUNTY JAIL,null,null,null,null,null,falseOR,44026,CLATSOP COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OR,05289,COLUMBIA COUNTY JAIL,null,null,null,null,null,false
+OR,44054,JEFFERSON COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OR,44003,JOSEPHINE COUNTY ADULT JAIL,null,null,null,null,null,false
+OR,05563,KLAMATH COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+OR,44036,MULTNOMAH COUNTY DETENTION CENTER,null,null,null,null,null,false
+OR,44035,MULTNOMAH COUNTY INVERNESS JAIL,null,null,null,null,null,false
+OR,44010,MULTNOMAH COUNTY JUVENILE DEPT,null,null,null,null,null,false
+OR,44041,UNION COUNTY SHERIFFS OFFICE,null,null,null,null,null,falsePA,07527,BUTLER COUNTY PRISON,null,null,null,null,null,false
+PA,07688,CRAWFORD COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+PA,06400,ERIE COUNTY COMMUNITY CORRECTIONAL FACILITY,null,null,null,null,null,false
+PA,06399,ERIE COUNTY PRISON,null,null,null,null,null,false
+PA,04691,LANCASTER COUNTY PRISON,null,null,null,null,null,false
+PA,07163,LANCASTER COUNTY YOUTH INTERVENTION CENTER,null,null,null,null,null,false
+PA,07227,MONROE COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+PA,45033,PA DOC - ALBION STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,09193,PA DOC - BENNER TOWNSHIP STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45038,PA DOC - CAMBRIDGE SPRINGS STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45019,PA DOC - CAMP HILL STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45042,PA DOC - CHESTER STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45027,PA DOC - COAL TOWNSHIP STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45031,PA DOC - DALLAS STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,06779,PA DOC - DEPT OF CORRECTIONS CENTRAL OFFICE,null,null,null,null,null,false
+PA,45053,PA DOC - FAYETTE STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45067,PA DOC - FOREST STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45022,PA DOC - FRACKVILLE STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45030,PA DOC - GREENE STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45029,PA DOC - HOUTZDALE STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45020,PA DOC - HUNTINGDON STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45040,PA DOC - LAUREL HIGHLANDS STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45026,PA DOC - MAHANOY STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45034,PA DOC - MERCER STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45035,PA DOC - MUNCY STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,07152,PA DOC - PHOENIX STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45049,PA DOC - PINE GROVE STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45039,PA DOC - QUEHANNA MOTIVATIONAL BOOT CAMP,null,null,null,null,null,false
+PA,45028,PA DOC - RETREAT STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45041,PA DOC - ROCKVIEW STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45023,PA DOC - SMITHFIELD STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45032,PA DOC - SOMERSET STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,45036,PA DOC - WAYMART STATE CORRECTIONAL INSTITUTION,null,null,null,null,null,false
+PA,07380,SNYDER COUNTY PRISON,null,null,null,null,null,false
+PA,45056,TIOGA COUNTY PRISON,null,null,null,null,null,false
+PA,45254,UNION COUNTY PRISON,null,null,null,null,null,false
+PA,06956,VENANGO COUNTY PRISON,null,null,null,null,null,false
+PA,45057,WYOMING COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,falseRI,07235,RI DOC - ADMINISTRATION BUILDING,null,null,null,null,null,false
+RI,07699,RI DOC - GLORIA MCDONALD WOMENS MEDIUM SECURITY FACILITY,null,null,null,null,null,false
+RI,07626,RI DOC - HIGH SECURITY CENTER,null,null,null,null,null,false
+RI,07626A,RI DOC - HIGH SECURITY CENTER-ATTORNEY,null,null,null,null,null,false
+RI,07676,RI DOC - INTAKE SERVICE CENTER,null,null,null,null,null,false
+RI,07673,RI DOC - JOHN J MORAN MEDIUM SECURITY FACILITY,null,null,null,null,null,false
+RI,07644,RI DOC - MAXIMUM SECURITY FACILITY,null,null,null,null,null,false
+RI,07644A,RI DOC - MAXIMUM SECURITY FACILITY-ATTORNEY,null,null,null,null,null,false
+RI,41035,RI DOC - MINIMUM SECURITY FACILITY,null,null,null,null,null,false
+RI,41035A,RI DOC - MINIMUM SECURITY FACILITY-ATTORNEY,null,null,null,null,null,falseSC,07854,ANDERSON CITY JAIL,null,null,null,null,null,false
+SC,00467,BAMBERG COUNTY JAIL,null,null,null,null,null,false
+SC,03218,CHEROKEE COUNTY JAIL,null,null,null,null,null,false
+SC,06948,CHESTERFIELD COUNTY DETENTION CENTER,null,null,null,null,null,false
+SC,07768,CHESTERFIELD COUNTY WORK CAMP,null,null,null,null,null,false
+SC,01075,CLARENDON COUNTY JAIL,null,null,null,null,null,false
+SC,01815,DILLON COUNTY DETENTION CENTER,null,null,null,null,null,false
+SC,01076,EDGEFIELD COUNTY JAIL,null,null,null,null,null,false
+SC,01817,FAIRFIELD COUNTY DETENTION CENTER,null,null,null,null,null,false
+SC,02955,GEORGETOWN COUNTY DETENTION CENTER,null,null,null,null,null,false
+SC,07111,GREENVILLE COUNTY DETENTION CENTER,null,null,null,null,null,false
+SC,00998,GREENWOOD COUNTY JAIL,null,null,null,null,null,false
+SC,00544,HAMPTON COUNTY JAIL,null,null,null,null,null,false
+SC,01938,HILL FINKLEA DETENTION CENTER,null,null,null,null,null,false
+SC,01821,HORRY COUNTY - J REUBEN LONG DETENTION CENTER,null,null,null,null,null,false
+SC,01822,KERSHAW COUNTY DETENTION FACILITY,null,null,null,null,null,false
+SC,01823,LANCASTER COUNTY JAIL,null,null,null,null,null,false
+SC,02291,LAURENS COUNTY JAIL,null,null,null,null,null,false
+SC,01824,LEXINGTON COUNTY JAIL,null,null,null,null,null,false
+SC,46053,OCONEE COUNTY LAW ENFORCEMENT,null,null,null,null,null,false
+SC,05341,PICKENS COUNTY DETENTION FACILITY,null,null,null,null,null,false
+SC,05386,PICKENS COUNTY DETENTION FACILITY (NEW),null,null,null,null,null,false
+SC,05360,PICKENS COUNTY PRISON,null,null,null,null,null,false
+SC,01836,ROCK HILL CITY JAIL,null,null,null,null,null,false
+SC,05225,SPARTANBURG COUNTY DETENTION FACILITY,null,null,null,null,null,false
+SC,80328,SPARTANBURG COUNTY DETENTION FACILITY ANNEX,null,null,null,null,null,false
+SC,05829,SUMTER COUNTY DETENTION CENTER,null,null,null,null,null,false
+SC,00967,W GLENN CAMPBELL DETENTION CENTER,null,null,null,null,null,false
+SC,01843,YORK COUNTY JAIL,null,null,null,null,null,falseSD,08265,CODINGTON COUNTY JAIL,null,null,null,null,null,false
+SD,08266,FALL RIVER COUNTY JAIL,null,null,null,null,null,false
+SD,08075,PENNINGTON COUNTY JAIL,null,null,null,null,null,false
+SD,47004,PENNINGTON COUNTY JUVENILE,null,null,null,null,null,false
+SD,08075A,PENNINGTON COUNTY SHERIFFS OFFICE-ATTORNEY,null,null,null,null,null,falseTN,00300,BEDFORD COUNTY JAIL,null,null,null,null,null,false
+TN,05475,BRADLEY COUNTY JAIL,null,null,null,null,null,false
+TN,00310,BRADLEY COUNTY JAIL WORK RELEASE,null,null,null,null,null,false
+TN,09091,CAMPBELL COUNTY JAIL,null,null,null,null,null,false
+TN,00595,CARROLL COUNTY JAIL,null,null,null,null,null,false
+TN,07735,CARTER COUNTY JAIL,null,null,null,null,null,false
+TN,00688,CHEATHAM COUNTY JAIL,null,null,null,null,null,false
+TN,06729,CHESTER COUNTY JAIL,null,null,null,null,null,false
+TN,00281,CUMBERLAND COUNTY JUSTICE CENTER,null,null,null,null,null,false
+TN,06787,DAVIDSON COUNTY - CORRECTIONAL DEVELOPMENT CENTER - FEMALE,null,null,null,null,null,false
+TN,00287,DAVIDSON COUNTY - CORRECTIONAL DEVELOPMENT CENTER - MALE,null,null,null,null,null,false
+TN,05014,DAVIDSON COUNTY - METRO DETENTION FACILITY,null,null,null,null,null,false
+TN,06756,DAVIDSON COUNTY DOWNTOWN DETENTION CENTER (DDC),null,null,null,null,null,false
+TN,00685,DECATUR COUNTY JUSTICE COMPLEX,null,null,null,null,null,false
+TN,04943,DEKALB COUNTY JAIL,null,null,null,null,null,false
+TN,09183,FENTRESS COUNTY JUSTICE CENTER,null,null,null,null,null,false
+TN,04280,GREENE COUNTY DETENTION CENTER,null,null,null,null,null,false
+TN,06347,GREENE COUNTY JAIL WORKHOUSE,null,null,null,null,null,false
+TN,04237,HAMBLEN COUNTY JAIL,null,null,null,null,null,false
+TN,00732,HAMILTON COUNTY JAIL,null,null,null,null,null,false
+TN,00637,HANCOCK COUNTY JAIL,null,null,null,null,null,false
+TN,05996,JEFFERSON COUNTY DETENTION CENTER,null,null,null,null,null,false
+TN,00290,JEFFERSON COUNTY WORKHOUSE,null,null,null,null,null,false
+TN,06018,JOHNSON CITY JAIL,null,null,null,null,null,false
+TN,09188,KNOX COUNTY DETENTION FACILITY,null,null,null,null,null,false
+TN,07195,KNOX COUNTY JAIL,null,null,null,null,null,false
+TN,09197,KNOX COUNTY WORK RELEASE CENTER,null,null,null,null,null,false
+TN,04376,MARION COUNTY JAIL,null,null,null,null,null,false
+TN,09080,MCMINN COUNTY JUSTICE CENTER,null,null,null,null,null,false
+TN,01263,MONTGOMERY COUNTY COURTHOUSE,null,null,null,null,null,false
+TN,09205,MONTGOMERY COUNTY JAIL,null,null,null,null,null,false
+TN,00669,MONTGOMERY COUNTY WORKHOUSE,null,null,null,null,null,false
+TN,00414,MORGAN COUNTY JAIL,null,null,null,null,null,false
+TN,09202,POLK COUNTY JAIL,null,null,null,null,null,false
+TN,09181,RHEA COUNTY JAIL,null,null,null,null,null,false
+TN,06354,SCOTT COUNTY JAIL BLDG 2,null,null,null,null,null,false
+TN,07146,SMITH COUNTY JAIL,null,null,null,null,null,false
+TN,06102,SULLIVAN CORRECTIONAL FACILITY BLDG 2,null,null,null,null,null,false
+TN,05931,SULLIVAN COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+TN,06683,SUMNER COUNTY SHERIFF'S OFFICE AND JAIL,null,null,null,null,null,false
+TN,00811,TIPTON COUNTY JAIL,null,null,null,null,null,false
+TN,00273,WARREN COUNTY JAIL,null,null,null,null,null,false
+TN,00718,WEAKLEY COUNTY JAIL,null,null,null,null,null,false
+TN,04408,WHITE COUNTY JAIL,null,null,null,null,null,falseTX,49183,ANDREWS COUNTY JAIL,null,null,null,null,null,false
+TX,07396,BASTROP COUNTY JAIL,null,null,null,null,null,false
+TX,49144,BEDFORD CITY POLICE DEPARTMENT,null,null,null,null,null,false
+TX,00293,BELL COUNTY CENTRAL JAIL,null,null,null,null,null,false
+TX,06416,BELL COUNTY LOOP JAIL,null,null,null,null,null,false
+TX,49038,BRAZORIA COUNTY SHERIFF'S DEPT JAIL,null,null,null,null,null,false
+TX,06071,BURLESON COUNTY JAIL,null,null,null,null,null,false
+TX,49147,CAMERON COUNTY CARRIZALEZ-RUCKER DETENTION CENTER,null,null,null,null,null,false
+TX,49114,CAMERON COUNTY DETENTION CENTER,null,null,null,null,null,false
+TX,49040,CAMERON COUNTY JAIL,null,null,null,null,null,false
+TX,04658,COASTAL BEND REGIONAL INTERMEDIATE SANCTION FACILITY,null,null,null,null,null,false
+TX,00434,COLLINGSWORTH COUNTY JAIL,null,null,null,null,null,false
+TX,04364,COMAL COUNTY JAIL,null,null,null,null,null,false
+TX,49022,COOKE COUNTY JAIL,null,null,null,null,null,false
+TX,01008,CORYELL COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+TX,49025,DALLAS COUNTY COOK CHILL,null,null,null,null,null,false
+TX,49103,DALLAS COUNTY GEORGE ALLEN JAIL,null,null,null,null,null,false
+TX,49027,DALLAS COUNTY LEW STERRETT NORTH TOWER,null,null,null,null,null,false
+TX,49026,DALLAS COUNTY LEW STERRETT WEST TOWER,null,null,null,null,null,false
+TX,49034,DALLAS COUNTY SUZANNE KAYS DETENTION CENTER,null,null,null,null,null,false
+TX,06405,DENTON COUNTY JAIL,null,null,null,null,null,false
+TX,06408,DENTON COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+TX,06407,DENTON COUNTY PRE-TRIAL FACILITY,null,null,null,null,null,false
+TX,01035,DENTON COUNTY TOWER JAIL,null,null,null,null,null,false
+TX,08876,DESOTO CITY JAIL,null,null,null,null,null,false
+TX,00952,DUVAL COUNTY JAIL,null,null,null,null,null,false
+TX,49018,ECTOR COUNTY DETENTION CENTER,null,null,null,null,null,false
+TX,06663,FANNIN COUNTY JAIL,null,null,null,null,null,false
+TX,49188,FANNIN COUNTY JAIL ANNEX,null,null,null,null,null,false
+TX,05252,FORT BEND COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+TX,06864,FORT BEND COUNTY JUVENILE PROBATION,null,null,null,null,null,false
+TX,00869,GONZALES COUNTY JAIL,null,null,null,null,null,false
+TX,49049,GRAND PRAIRIE POLICE DEPT,null,null,null,null,null,false
+TX,03802,GRAYSON COUNTY,null,null,null,null,null,false
+TX,05027,GRAYSON COUNTY,null,null,null,null,null,false
+TX,01106,HALE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+TX,00443,HALL COUNTY JAIL,null,null,null,null,null,false
+TX,49194,HARRIS COUNTY 7900 WILL CLAYTON PARKWAY,null,null,null,null,null,false
+TX,49071,HARRIS COUNTY CLAY ROAD JAIL,null,null,null,null,null,false
+TX,49092,HARRIS COUNTY CYPRESSWOOD JAIL,null,null,null,null,null,false
+TX,49066,HARRIS COUNTY INMATE PROCESSING CENTER,null,null,null,null,null,false
+TX,07866,HARRIS COUNTY INMATE PROCESSING CENTER - FRANKLIN,null,null,null,null,null,false
+TX,07265,HARRIS COUNTY JOINT PROCESSING CENTER - 700 N SAN JACINTO,null,null,null,null,null,false
+TX,07265A,HARRIS COUNTY JUSTICE PROCESSING CTR ATTORNEY, TX,null,null,null,null,null,false
+TX,08096,HARRIS COUNTY JUVENILE BURNETT BAYLAND RECEPTION CENTER,null,null,null,null,null,false
+TX,49104,HARRIS COUNTY JUVENILE JUSTICE CENTER,null,null,null,null,null,false
+TX,49110,HARRIS COUNTY JUVENILE LEADERSHIP ACADEMY,null,null,null,null,null,false
+TX,49195,HARRIS COUNTY N SHEPPARD DRIVE,null,null,null,null,null,false
+TX,49181,HARRIS COUNTY SHERIFF'S OFFICE - 1200 BAKER ST JAIL,null,null,null,null,null,false
+TX,49163,HARRIS COUNTY SHERIFF'S OFFICE - 1307 BAKER ST JAIL - HITOF,null,null,null,null,null,false
+TX,49069,HARRIS COUNTY SHERIFF'S OFFICE - 701 N SAN JACINTO,null,null,null,null,null,false
+TX,49067,HARRIS COUNTY SHERIFF'S OFFICE - 711 N SAN JACINTO JAIL,null,null,null,null,null,false
+TX,49196,HARRIS COUNTY WALLISVILLE ROAD JAIL,null,null,null,null,null,false
+TX,08097,HARRIS COUNTY YOUTH VILLAGE,null,null,null,null,null,false
+TX,04659,HAYS COUNTY JUVENILE FACILITY,null,null,null,null,null,false
+TX,01051,HAYS COUNTY LAW ENFORCEMENT CENTER,null,null,null,null,null,false
+TX,04879,HIDALGO COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+TX,04966,HUDSPETH COUNTY SHERIFF'S OFFICE - JSI,null,null,null,null,null,false
+TX,05989,IRVING POLICE DEPT,null,null,null,null,null,false
+TX,05640,JUDGE JOHN C CREUZOT JUDICIAL TREATMENT CENTER,null,null,null,null,null,false
+TX,49130,LAMAR COUNTY JAIL,null,null,null,null,null,false
+TX,49189,LIBERTY COUNTY JAIL,null,null,null,null,null,false
+TX,06734,LIMESTONE COUNTY JAIL,null,null,null,null,null,false
+TX,00979,MADISON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+TX,05200,MENARD COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+TX,08862,MESQUITE POLICE DEPT,null,null,null,null,null,false
+TX,07546,MIDLAND COUNTY ANNEX-PUBLIC VISITATION BUILDING,null,null,null,null,null,false
+TX,07562A,MIDLAND COUNTY ATTORNEY VISITATION, TX,null,null,null,null,null,false
+TX,07562,MIDLAND COUNTY CENTRAL DETENTION CENTER,null,null,null,null,null,false
+TX,08880,MIDLOTHIAN CITY JAIL,null,null,null,null,null,false
+TX,07071,MONTGOMERY COUNTY EAST LOCATION,null,null,null,null,null,false
+TX,05113,MONTGOMERY COUNTY JAIL,null,null,null,null,null,false
+TX,07865,MONTGOMERY COUNTY SOUTH LOCATION,null,null,null,null,null,false
+TX,06343,NUECES COUNTY RESIDENTIAL SERVICES,null,null,null,null,null,false
+TX,04243,OLDHAM COUNTY JAIL,null,null,null,null,null,false
+TX,09039,PLANO POLICE DEPT,null,null,null,null,null,false
+TX,04448,RAY D ANDERSON COMMUNITY CORRECTIONS FACILITY,null,null,null,null,null,false
+TX,05084,ROCKWALL COUNTY JAIL,null,null,null,null,null,false
+TX,01215,SAN PATRICIO COUNTY JAIL,null,null,null,null,null,false
+TX,49057,TARRANT COUNTY BELKNAP FACILITY,null,null,null,null,null,false
+TX,49105,TARRANT COUNTY COLD SPRINGS FACILITY,null,null,null,null,null,false
+TX,49058,TARRANT COUNTY CORRECTIONAL CENTER,null,null,null,null,null,false
+TX,49197,TARRANT COUNTY GREENBAY FACILITY,null,null,null,null,null,false
+TX,49094,TARRANT COUNTY LON EVANS CORRECTIONS CENTER,null,null,null,null,null,false
+TX,08887,TAYLOR COUNTY SUBSTANCE ABUSE TREATMENT CENTER,null,null,null,null,null,false
+TX,06435,TDCJ - ALLRED,null,null,null,null,null,false
+TX,06532,TDCJ - BARTLETT (CCA),null,null,null,null,null,false
+TX,07640,TDCJ - BATEN,null,null,null,null,null,false
+TX,06538,TDCJ - BELL,null,null,null,null,null,false
+TX,06436,TDCJ - BETO,null,null,null,null,null,false
+TX,06437,TDCJ - BOYD,null,null,null,null,null,false
+TX,06533,TDCJ - BRADSHAW (CCA),null,null,null,null,null,false
+TX,06537,TDCJ - BRIDGEPORT (GEO),null,null,null,null,null,false
+TX,06438,TDCJ - BRISCOE,null,null,null,null,null,false
+TX,06439,TDCJ - BYRD,null,null,null,null,null,false
+TX,06508,TDCJ - C MOORE,null,null,null,null,null,false
+TX,06497,TDCJ - CAROLE S YOUNG MEDICAL FACILITY,null,null,null,null,null,false
+TX,06548,TDCJ - CHASE FIELD GARZA TRUSTY CAMP,null,null,null,null,null,false
+TX,06441,TDCJ - CLEMENS,null,null,null,null,null,false
+TX,06442,TDCJ - CLEMENTS,null,null,null,null,null,false
+TX,06443,TDCJ - COFFIELD,null,null,null,null,null,false
+TX,06517,TDCJ - COLE STATE JAIL,null,null,null,null,null,false
+TX,06444,TDCJ - CONNALLY,null,null,null,null,null,false
+TX,06498,TDCJ - COTULLA,null,null,null,null,null,false
+TX,06445,TDCJ - CRAIN,null,null,null,null,null,false
+TX,06446,TDCJ - DALHART,null,null,null,null,null,false
+TX,06447,TDCJ - DANIEL,null,null,null,null,null,false
+TX,06448,TDCJ - DARRINGTON,null,null,null,null,null,false
+TX,06539,TDCJ - DIBOLL (CCA),null,null,null,null,null,false
+TX,06518,TDCJ - DOMINGUEZ,null,null,null,null,null,false
+TX,06499,TDCJ - DUNCAN,null,null,null,null,null,false
+TX,06449,TDCJ - EASTHAM,null,null,null,null,null,false
+TX,06450,TDCJ - ELLIS,null,null,null,null,null,false
+TX,06451,TDCJ - ESTELLE,null,null,null,null,null,false
+TX,06540,TDCJ - ESTES (GEO),null,null,null,null,null,false
+TX,06452,TDCJ - FERGUSON,null,null,null,null,null,false
+TX,06519,TDCJ - FORMBY STATE JAIL,null,null,null,null,null,false
+TX,06500,TDCJ - FORT STOCKTON,null,null,null,null,null,false
+TX,06501,TDCJ - GARZA EAST,null,null,null,null,null,false
+TX,06502,TDCJ - GARZA WEST,null,null,null,null,null,false
+TX,06520,TDCJ - GIST STATE JAIL,null,null,null,null,null,false
+TX,06513,TDCJ - GLOSSBRENNER,null,null,null,null,null,false
+TX,06453,TDCJ - GOREE,null,null,null,null,null,false
+TX,06504,TDCJ - GURNEY,null,null,null,null,null,false
+TX,06514,TDCJ - HALBERT,null,null,null,null,null,false
+TX,06454,TDCJ - HAMILTON,null,null,null,null,null,false
+TX,06455,TDCJ - HAVINS,null,null,null,null,null,false
+TX,06521,TDCJ - HENLEY STATE JAIL,null,null,null,null,null,false
+TX,06456,TDCJ - HIGHTOWER,null,null,null,null,null,false
+TX,06457,TDCJ - HILLTOP,null,null,null,null,null,false
+TX,06458,TDCJ - HOBBY,null,null,null,null,null,false
+TX,06459,TDCJ - HODGE,null,null,null,null,null,false
+TX,06505,TDCJ - HOLLIDAY,null,null,null,null,null,false
+TX,06460,TDCJ - HOSP/GALVESTON,null,null,null,null,null,false
+TX,06461,TDCJ - HUGHES,null,null,null,null,null,false
+TX,06462,TDCJ - HUNTSVILLE,null,null,null,null,null,false
+TX,06463,TDCJ - JESTER I,null,null,null,null,null,false
+TX,06464,TDCJ - JESTER III,null,null,null,null,null,false
+TX,06465,TDCJ - JESTER IV,null,null,null,null,null,false
+TX,06515,TDCJ - JOHNSTON,null,null,null,null,null,false
+TX,06466,TDCJ - JORDAN,null,null,null,null,null,false
+TX,06523,TDCJ - KEGANS STATE JAIL,null,null,null,null,null,false
+TX,06541,TDCJ - KYLE (MTC),null,null,null,null,null,false
+TX,06467,TDCJ - LEBLANC,null,null,null,null,null,false
+TX,06468,TDCJ - LEWIS,null,null,null,null,null,false
+TX,06535,TDCJ - LINDSEY (CCA),null,null,null,null,null,false
+TX,06542,TDCJ - LOCKHART WORK FACILITY (GEO),null,null,null,null,null,false
+TX,06544,TDCJ - LOCKHART WORK FACILITY (MALE),null,null,null,null,null,false
+TX,06524,TDCJ - LOPEZ STATE JAIL,null,null,null,null,null,false
+TX,06469,TDCJ - LUTHER,null,null,null,null,null,false
+TX,06525,TDCJ - LYCHNER STATE JAIL,null,null,null,null,null,false
+TX,06470,TDCJ - LYNAUGH,null,null,null,null,null,false
+TX,06506,TDCJ - MARLIN,null,null,null,null,null,false
+TX,06471,TDCJ - MCCONNELL,null,null,null,null,null,false
+TX,06472,TDCJ - MICHAEL,null,null,null,null,null,false
+TX,06507,TDCJ - MIDDLETON,null,null,null,null,null,false
+TX,06473,TDCJ - MONTFORD,null,null,null,null,null,false
+TX,06543,TDCJ - MOORE BILLY (MTC),null,null,null,null,null,false
+TX,06474,TDCJ - MOUNTAIN VIEW,null,null,null,null,null,false
+TX,06475,TDCJ - MURRAY,null,null,null,null,null,false
+TX,06476,TDCJ - NEAL,null,null,null,null,null,false
+TX,06526,TDCJ - NEY STATE JAIL,null,null,null,null,null,false
+TX,06477,TDCJ - PACK,null,null,null,null,null,false
+TX,06527,TDCJ - PLANE STATE JAIL,null,null,null,null,null,false
+TX,06478,TDCJ - POLUNSKY,null,null,null,null,null,false
+TX,06479,TDCJ - POWLEDGE,null,null,null,null,null,false
+TX,06480,TDCJ - RAMSEY,null,null,null,null,null,false
+TX,06481,TDCJ - ROACH,null,null,null,null,null,false
+TX,06482,TDCJ - ROBERTSON,null,null,null,null,null,false
+TX,06509,TDCJ - RUDD,null,null,null,null,null,false
+TX,06510,TDCJ - SAN SABA,null,null,null,null,null,false
+TX,06528,TDCJ - SANCHEZ STATE JAIL,null,null,null,null,null,false
+TX,06516,TDCJ - SAYLE,null,null,null,null,null,false
+TX,06483,TDCJ - SCOTT,null,null,null,null,null,false
+TX,06484,TDCJ - SEGOVIA,null,null,null,null,null,false
+TX,06485,TDCJ - SKYVIEW,null,null,null,null,null,false
+TX,06486,TDCJ - SMITH,null,null,null,null,null,false
+TX,06487,TDCJ - STEVENSON,null,null,null,null,null,false
+TX,06488,TDCJ - STILES,null,null,null,null,null,false
+TX,06489,TDCJ - STRINGFELLOW,null,null,null,null,null,false
+TX,06490,TDCJ - TELFORD,null,null,null,null,null,false
+TX,06491,TDCJ - TERRELL,null,null,null,null,null,false
+TX,06492,TDCJ - TORRES,null,null,null,null,null,false
+TX,06511,TDCJ - TULIA,null,null,null,null,null,false
+TX,06493,TDCJ - VANCE,null,null,null,null,null,false
+TX,06494,TDCJ - WALLACE,null,null,null,null,null,false
+TX,06495,TDCJ - WEST TEXAS REGIONAL,null,null,null,null,null,false
+TX,06530,TDCJ - WHEELER STATE JAIL,null,null,null,null,null,false
+TX,06551,TDCJ - WILDERNESS 3 SAN ANGELO WORK CAMP,null,null,null,null,null,false
+TX,06536,TDCJ - WILLACY COUNTY (CCA),null,null,null,null,null,false
+TX,06531,TDCJ - WOODMAN STATE JAIL,null,null,null,null,null,false
+TX,06496,TDCJ - WYNNE,null,null,null,null,null,false
+TX,05073,TITUS COUNTY JAIL,null,null,null,null,null,false
+TX,01191,TRAVIS COUNTY 10TH STREET JAIL,null,null,null,null,null,false
+TX,01186,TRAVIS COUNTY CORRECTIONAL COMPLEX,null,null,null,null,null,false
+TX,01186A,TRAVIS COUNTY CORRECTIONAL COMPLEX-ATTORNEY,null,null,null,null,null,false
+TX,05161,TRINITY COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+TX,07183,UVALDE COUNTY,null,null,null,null,null,false
+TX,01012,WILSON COUNTY JAIL,null,null,null,null,null,false
+TX,05798,WOOD COUNTY SHERIFF DEPT,null,null,null,null,null,falseUT,50014,BEAVER COUNTY JAIL,null,null,null,null,null,false
+UT,05291,CACHE COUNTY JAIL,null,null,null,null,null,false
+UT,08946,DAVIS COUNTY JAIL,null,null,null,null,null,false
+UT,06421,DAVIS COUNTY WORK CENTER,null,null,null,null,null,false
+UT,04753,EMERY COUNTY JAIL,null,null,null,null,null,false
+UT,05786,GARFIELD COUNTY JAIL,null,null,null,null,null,false
+UT,08951,GRAND COUNTY JAIL,null,null,null,null,null,false
+UT,50004,IRON COUNTY JAIL,null,null,null,null,null,false
+UT,05593,MILLARD COUNTY JAIL,null,null,null,null,null,false
+UT,08725,SANPETE COUNTY JAIL,null,null,null,null,null,false
+UT,08955,SEVIER COUNTY JAIL,null,null,null,null,null,false
+UT,08972,TOOELE COUNTY JAIL,null,null,null,null,null,false
+UT,50009,UTAH COUNTY JAIL,null,null,null,null,null,false
+UT,08960,WASATCH COUNTY JAIL,null,null,null,null,null,false
+UT,50018A,WEBER COUNTY CORRECTIONAL ATTORNEY, UT,null,null,null,null,null,false
+UT,50018,WEBER COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+UT,06827,WEBER COUNTY KIESEL FACILITY,null,null,null,null,null,falseVA,06753,ACCOMACK COUNTY JAIL,null,null,null,null,null,false
+VA,51017,ALEXANDRIA DETENTION CENTER,null,null,null,null,null,false
+VA,07419,BOTETOURT-CRAIG COUNTIES PUBLIC SAFETY FACILITY,null,null,null,null,null,false
+VA,00159,BRISTOL VIRGINIA CITY JAIL,null,null,null,null,null,false
+VA,08050,BRRJA - AMHERST COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+VA,08049,BRRJA - BEDFORD ADULT DETENTION CENTER,null,null,null,null,null,false
+VA,08063,BRRJA - BEDFORD BOOKING,null,null,null,null,null,false
+VA,08064,BRRJA - CAMPBELL BOOKING,null,null,null,null,null,false
+VA,08048,BRRJA - CAMPBELL COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+VA,08065,BRRJA - HALIFAX BOOKING,null,null,null,null,null,false
+VA,08047,BRRJA - HALIFAX COUNTY ADULT DETENTION CENTER,null,null,null,null,null,false
+VA,07577,BRRJA - LYNCHBURG ADULT DETENTION CENTER,null,null,null,null,null,false
+VA,08061,BRRJA - LYNCHBURG BOOKING,null,null,null,null,null,false
+VA,51052,CENTRAL VIRGINIA REGIONAL JAIL,null,null,null,null,null,false
+VA,51052A,CENTRAL VIRGINIA REGIONAL JAIL ATTORNEY, LA,null,null,null,null,null,false
+VA,51004,HAMPTON CITY JAIL,null,null,null,null,null,false
+VA,51045,HAMPTON CITY JAIL ANNEX,null,null,null,null,null,false
+VA,51046,HAMPTON ROADS REGIONAL JAIL,null,null,null,null,null,false
+VA,51059,LANCASTER COUNTY JAIL,null,null,null,null,null,false
+VA,04618,LEBANON COMMUNITY CORRECTIONAL CENTER,null,null,null,null,null,false
+VA,04702A,NEWPORT NEWS ATTORNEY, VA,null,null,null,null,null,false
+VA,04702,NEWPORT NEWS CITY JAIL,null,null,null,null,null,false
+VA,06559,NEWPORT NEWS CITY JAIL ANNEX,null,null,null,null,null,false
+VA,04703,NEWPORT NEWS-JUVENILE DETENTION,null,null,null,null,null,false
+VA,51064,NORTHERN NECK REGIONAL JAIL,null,null,null,null,null,false
+VA,51064A,NORTHERN NECK REGIONAL JAIL,VA(FOR ATTORNEYS ONLY),null,null,null,null,null,false
+VA,00380,PATRICK COUNTY JAIL,null,null,null,null,null,false
+VA,51003,PORTSMOUTH CITY JAIL,null,null,null,null,null,false
+VA,51069,PORTSMOUTH CITY WORK RELEASE CENTER,null,null,null,null,null,false
+VA,51073,SOUTHAMPTON COUNTY JAIL,null,null,null,null,null,false
+VA,51072,SOUTHAMPTON COUNTY JAIL FARM,null,null,null,null,null,falseWA,53069,ABERDEEN POLICE DEPT,null,null,null,null,null,false
+WA,53012,CHILDREN AND FAMILY JUSTICE CENTER - CFJC,null,null,null,null,null,false
+WA,53049,CLALLAM COUNTY JUVENILE,null,null,null,null,null,false
+WA,05749,COWLITZ COUNTY JAIL,null,null,null,null,null,false
+WA,05377,COWLITZ COUNTY JUVENILE FACILITY,null,null,null,null,null,false
+WA,53055,ISLAND COUNTY JAIL,null,null,null,null,null,false
+WA,05871,ISLAND COUNTY JUVENILE DETENTION FACILITY,null,null,null,null,null,false
+WA,53070,KENT CITY OF CORRECTIONS FACILITY,null,null,null,null,null,false
+WA,09509,KING COUNTY - CCD WORK RELEASE,null,null,null,null,null,false
+WA,53004,KING COUNTY CORRECTIONAL FACILITY,null,null,null,null,null,false
+WA,53039,KING COUNTY MALENG REGIONAL JUSTICE CENTER,null,null,null,null,null,false
+WA,05243,KITTITAS COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+WA,00189,MARYSVILLE CITY JAIL,null,null,null,null,null,false
+WA,06406,MASON COUNTY JAIL,null,null,null,null,null,false
+WA,53006,PIERCE COUNTY DETENTION CORRECTIONS CENTER,null,null,null,null,null,false
+WA,53014,PIERCE COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+WA,53062,SKAGIT COUNTY COMMUNITY JUSTICE CENTER,null,null,null,null,null,false
+WA,09037,SKAGIT COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+WA,04315,WALLA WALLA COUNTY JAIL,null,null,null,null,null,false
+WA,05714,WALLA WALLA COUNTY JUVENILE,null,null,null,null,null,false
+WA,53090,YAKIMA COUNTY CORRECTIONAL CENTER,null,null,null,null,null,false
+WA,53016,YAKIMA COUNTY JAIL,null,null,null,null,null,falseWI,08511,ADAMS COUNTY JAIL,null,null,null,null,null,false
+WI,06008,BARRON COUNTY SHERIFF DEPT,null,null,null,null,null,false
+WI,07481,BROWN COUNTY JAIL / JUVENILE DETENTION CENTER,null,null,null,null,null,false
+WI,09081,BROWN COUNTY WORK RELEASE CENTER,null,null,null,null,null,false
+WI,05718,CHIPPEWA COUNTY SHERIFF DEPT,null,null,null,null,null,false
+WI,04233,COLUMBIA COUNTY JAIL,null,null,null,null,null,false
+WI,00990,EAU CLAIRE COUNTY JAIL,null,null,null,null,null,false
+WI,09164,EAU CLAIRE COUNTY JAIL - MAIN,null,null,null,null,null,false
+WI,08519,GREEN COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+WI,07051,JACKSON COUNTY JAIL,null,null,null,null,null,false
+WI,00249,JEFFERSON COUNTY SHERIFF'S OFFICE,null,null,null,null,null,false
+WI,04750,JUNEAU COUNTY JUSTICE CENTER,null,null,null,null,null,false
+WI,05627,LA CROSSE COUNTY JAIL,null,null,null,null,null,false
+WI,08477,LINCOLN COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+WI,08556,MANITOWOC COUNTY JAIL,null,null,null,null,null,false
+WI,07612,MARATHON COUNTY JAIL,null,null,null,null,null,false
+WI,09446,MARATHON COUNTY JUVENILE FACILITY,null,null,null,null,null,false
+WI,08277,MONROE COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+WI,00716,POLK COUNTY JAIL,null,null,null,null,null,false
+WI,04650,PORTAGE COUNTY JAIL,null,null,null,null,null,false
+WI,08488,PRICE COUNTY JAIL,null,null,null,null,null,false
+WI,05853,RACINE COUNTY JAIL,null,null,null,null,null,false
+WI,05855,RACINE COUNTY JAIL - DOC INMATES,null,null,null,null,null,false
+WI,05854,RACINE COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+WI,54020,RUSK COUNTY JAIL,null,null,null,null,null,false
+WI,08527,SAWYER COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+WI,04367,SHEBOYGAN COUNTY DETENTION CENTER,null,null,null,null,null,false
+WI,04368,SHEBOYGAN COUNTY JAIL,null,null,null,null,null,false
+WI,05768,VERNON COUNTY SHERIFF'S DEPT,null,null,null,null,null,false
+WI,08496,VILAS COUNTY SHERIFF'S DEPT JAIL,null,null,null,null,null,false
+WI,04538,WAUPACA COUNTY JAIL,null,null,null,null,null,false
+WI,05902,WOOD COUNTY JAIL,null,null,null,null,null,falseWV,10084,WV DJS - DONALD KUHN JUVENILE DIAGNOSTIC & DETENTION CENTER,null,null,null,null,null,false
+WV,06676,WV DJS - RUBENSTEIN JUVENILE CENTER,null,null,null,null,null,false
+WV,10093,WV DJS - SAM PERDUE JUVENILE CENTER,null,null,null,null,null,false
+WV,10085,WV DJS - TIGER MORTON JUVENILE CENTER,null,null,null,null,null,falseWY,04354,BIG HORN COUNTY DETENTION CENTER,null,null,null,null,null,false
+WY,10150,CONVERSE COUNTY DETENTION CENTER (NEW),null,null,null,null,null,false
+WY,00194,CROOK COUNTY DETENTION FACILITY,null,null,null,null,null,false
+WY,06201,NATRONA COUNTY DETENTION CENTER,null,null,null,null,null,false
+WY,08004,NATRONA COUNTY JUVENILE DETENTION CENTER,null,null,null,null,null,false
+WY,05797,PARK COUNTY DETENTION CENTER,null,null,null,null,null,false
+WY,04429,PLATTE COUNTY DETENTION CENTER,null,null,null,null,null,false
+WY,05700,SUBLETTE COUNTY DETENTION FACILITY,null,null,null,null,null,false
+WY,05373,UINTA COUNTY DETENTION CENTER WY,null,null,null,null,null,false
+WY,05602,WASHAKIE COUNTY JAIL,null,null,null,null,null,false
+WY,04077,WESTON COUNTY DETENTION CENTER,null,null,null,null,null,false

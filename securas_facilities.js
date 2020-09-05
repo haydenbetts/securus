@@ -19,7 +19,7 @@ const main = async () => {
             securas_facilities[state] = null
         }
     }
-    await fs.writeFileSync('./scraped/securas_facilities.json', JSON.stringify(securas_facilities));
+    await fs.writeFileSync('./scraped/securas_facilities_9_5.json', JSON.stringify(securas_facilities));
 }
 
 main();
