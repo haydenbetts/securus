@@ -65,7 +65,7 @@ const processState = async (facilities, shortName) => {
 
 const main  = async () => {
    const states = Object.keys(facilities);
-   for (let i = 19; i < states.length; i++) {
+   for (let i = 0; i < states.length; i++) {
        await processState(facilities[states[i]], states[i])
    }
 }
