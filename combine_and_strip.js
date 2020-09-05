@@ -23,7 +23,10 @@ const main = async () => {
             }).filter(Boolean).join(',');
         }
 
-            all += f[j].replace(/\$/g, '');
+            all += f[j]
+                .replace(/\$/g, '')
+                .replace(/"/g, "'")
+
             if (j < f.length -1) all += '\n';
         }
     }
